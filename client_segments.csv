@@ -1,0 +1,2001 @@
+client_id,client_type,age,acquisition_purpose,total_investment,num_properties,cluster,cluster_name
+C0001,Individual,58,Home,1246764.72,4,0,Individual Home Buyers
+C0002,Individual,64,Home,1841095.93,5,0,Individual Home Buyers
+C0003,Individual,67,Home,1661457.59,5,0,Individual Home Buyers
+C0004,Individual,67,Home,1608263.51,6,0,Individual Home Buyers
+C0005,Company,50,Investment,3653385.38,13,0,Individual Home Buyers
+C0006,Individual,69,Home,1514131.06,5,0,Individual Home Buyers
+C0007,Individual,79,Investment,3251147.83,11,1,Corporate Buyers
+C0008,Individual,57,Home,1476730.41,5,0,Individual Home Buyers
+C0009,Individual,51,Investment,1820832.35,5,0,Individual Home Buyers
+C0010,Individual,60,Investment,1732434,5,0,Individual Home Buyers
+C0011,Individual,70,Home,1325211.52,5,0,Individual Home Buyers
+C0012,Company,51,Investment,1599526.4,4,0,Individual Home Buyers
+C0013,Individual,64,Home,2142750.89,5,0,Individual Home Buyers
+C0014,Company,46,Home,1548140.07,4,0,Individual Home Buyers
+C0015,Individual,85,Home,1585907.37,5,0,Individual Home Buyers
+C0016,Individual,87,Investment,1010217.73,4,0,Individual Home Buyers
+C0017,Individual,49,Home,1778693.75,5,0,Individual Home Buyers
+C0018,Individual,59,Home,1061478.67,4,0,Individual Home Buyers
+C0019,Individual,69,Home,1773474.26,4,0,Individual Home Buyers
+C0020,Individual,59,Home,1508032.25,4,0,Individual Home Buyers
+C0021,Individual,88,Investment,1928172.72,6,0,Individual Home Buyers
+C0022,Individual,60,Investment,1372403.2,4,1,Corporate Buyers
+C0023,Individual,68,Home,1457871.69,5,0,Individual Home Buyers
+C0024,Individual,63,Investment,1884156.9,6,0,Individual Home Buyers
+C0025,Individual,89,Home,1694448.83,5,0,Individual Home Buyers
+C0026,Individual,64,Investment,2932241.75,10,0,Individual Home Buyers
+C0027,Individual,58,Home,1517969.44,5,0,Individual Home Buyers
+C0028,Individual,68,Home,1791082.79,5,0,Individual Home Buyers
+C0029,Individual,50,Home,1247795.31,4,0,Individual Home Buyers
+C0030,Individual,74,Home,1547311.29,4,0,Individual Home Buyers
+C0031,Individual,49,Home,1077148.21,5,0,Individual Home Buyers
+C0032,Individual,60,Home,1888995.16,5,0,Individual Home Buyers
+C0033,Individual,58,Home,1404998.67,4,0,Individual Home Buyers
+C0034,Individual,57,Home,1632608.66,5,1,Corporate Buyers
+C0035,Individual,61,Home,1987876.4,5,0,Individual Home Buyers
+C0036,Individual,53,Home,1173683.53,4,0,Individual Home Buyers
+C0037,Individual,64,Home,1607228.75,5,0,Individual Home Buyers
+C0038,Individual,52,Investment,1175129.27,4,0,Individual Home Buyers
+C0039,Individual,59,Home,1858527.54,4,1,Corporate Buyers
+C0040,Individual,51,Home,1854608.29,6,0,Individual Home Buyers
+C0041,Individual,59,Home,1374460.79,5,0,Individual Home Buyers
+C0042,Individual,51,Home,1101390.25,4,0,Individual Home Buyers
+C0043,Individual,61,Investment,1126492.46,4,0,Individual Home Buyers
+C0044,Individual,95,Home,1330493.26,4,0,Individual Home Buyers
+C0045,Individual,58,Investment,1463432.36,5,0,Individual Home Buyers
+C0046,Individual,62,Home,2026517.4,8,0,Individual Home Buyers
+C0047,Individual,56,Home,1438239.28,5,0,Individual Home Buyers
+C0048,Individual,69,Home,1338718,4,0,Individual Home Buyers
+C0049,Individual,55,Home,1390091.2,4,0,Individual Home Buyers
+C0050,Individual,86,Home,2744452.35,9,0,Individual Home Buyers
+C0051,Individual,85,Home,1270440.42,4,0,Individual Home Buyers
+C0052,Individual,59,Investment,1474211.53,4,0,Individual Home Buyers
+C0053,Individual,72,Home,1120539.44,4,0,Individual Home Buyers
+C0054,Company,59,Investment,2109277.6,6,0,Individual Home Buyers
+C0055,Individual,53,Home,1178979.21,4,0,Individual Home Buyers
+C0056,Individual,62,Investment,1579301.36,4,0,Individual Home Buyers
+C0057,Individual,93,Home,2020519.52,5,0,Individual Home Buyers
+C0058,Company,57,Investment,1441406.17,5,0,Individual Home Buyers
+C0059,Individual,66,Home,1278854.25,4,0,Individual Home Buyers
+C0060,Individual,54,Home,1355662.25,4,0,Individual Home Buyers
+C0061,Individual,59,Home,1306907.58,4,0,Individual Home Buyers
+C0062,Individual,52,Home,1489333.49,5,0,Individual Home Buyers
+C0063,Individual,84,Home,1625480.88,5,0,Individual Home Buyers
+C0064,Individual,52,Investment,1448881.28,4,1,Corporate Buyers
+C0065,Individual,54,Home,1557125.73,4,0,Individual Home Buyers
+C0066,Individual,52,Investment,1107164.17,4,0,Individual Home Buyers
+C0067,Individual,49,Home,1431941.84,5,0,Individual Home Buyers
+C0068,Individual,60,Home,1572779.33,4,0,Individual Home Buyers
+C0069,Individual,56,Investment,1439142.47,5,0,Individual Home Buyers
+C0070,Individual,79,Home,1521570.62,5,0,Individual Home Buyers
+C0071,Individual,41,Home,1150384.09,5,0,Individual Home Buyers
+C0072,Individual,73,Investment,2246488.58,6,0,Individual Home Buyers
+C0073,Individual,61,Investment,1413902.33,4,0,Individual Home Buyers
+C0074,Individual,67,Investment,1709458.65,5,0,Individual Home Buyers
+C0075,Individual,56,Home,1269395.74,4,0,Individual Home Buyers
+C0076,Individual,70,Home,1905852.09,6,0,Individual Home Buyers
+C0077,Individual,46,Home,1880012.18,5,0,Individual Home Buyers
+C0078,Individual,78,Home,1685882.39,4,0,Individual Home Buyers
+C0079,Individual,72,Investment,1456436.3,4,1,Corporate Buyers
+C0080,Individual,77,Investment,1427531.56,5,0,Individual Home Buyers
+C0081,Individual,83,Home,1522144.26,4,0,Individual Home Buyers
+C0082,Individual,45,Investment,1282267.95,5,0,Individual Home Buyers
+C0083,Individual,88,Home,1513641.46,6,0,Individual Home Buyers
+C0084,Individual,78,Home,1762231.92,5,0,Individual Home Buyers
+C0085,Individual,60,Home,1185505.46,4,0,Individual Home Buyers
+C0086,Individual,58,Home,1928188.61,5,0,Individual Home Buyers
+C0087,Individual,47,Home,1681153.28,4,0,Individual Home Buyers
+C0088,Individual,90,Investment,1450519.57,6,0,Individual Home Buyers
+C0089,Individual,77,Home,1041853.81,4,0,Individual Home Buyers
+C0090,Individual,44,Home,980850.42,5,0,Individual Home Buyers
+C0091,Individual,67,Home,1356644.74,4,0,Individual Home Buyers
+C0092,Individual,55,Home,2817926.96,8,0,Individual Home Buyers
+C0093,Individual,64,Home,1732558.38,5,0,Individual Home Buyers
+C0094,Individual,78,Home,1062675.82,5,0,Individual Home Buyers
+C0095,Individual,62,Home,1668973.02,6,0,Individual Home Buyers
+C0096,Individual,41,Investment,1363013.17,4,0,Individual Home Buyers
+C0097,Individual,83,Home,2189906.04,7,0,Individual Home Buyers
+C0098,Individual,77,Home,1131592.65,4,1,Corporate Buyers
+C0099,Individual,85,Investment,2000308.58,6,0,Individual Home Buyers
+C0100,Individual,57,Home,1449544.65,4,0,Individual Home Buyers
+C0101,Individual,75,Home,1125013.8,4,0,Individual Home Buyers
+C0102,Individual,79,Investment,3403263.85,9,0,Individual Home Buyers
+C0103,Individual,53,Home,1483838.77,5,0,Individual Home Buyers
+C0104,Individual,48,Home,1677155.01,5,0,Individual Home Buyers
+C0105,Individual,67,Investment,1328084.36,5,0,Individual Home Buyers
+C0106,Individual,73,Home,957679.27,4,0,Individual Home Buyers
+C0107,Individual,67,Home,1715058.23,5,0,Individual Home Buyers
+C0108,Individual,68,Home,1998798.72,6,0,Individual Home Buyers
+C0109,Individual,93,Investment,1995551.09,5,0,Individual Home Buyers
+C0110,Individual,67,Investment,1205555.46,5,0,Individual Home Buyers
+C0111,Individual,47,Home,1198421.22,4,0,Individual Home Buyers
+C0112,Individual,66,Investment,1775142.2,5,0,Individual Home Buyers
+C0113,Individual,77,Investment,1414433.46,4,0,Individual Home Buyers
+C0114,Individual,64,Home,1124004.05,4,0,Individual Home Buyers
+C0115,Individual,48,Home,1757354.59,5,0,Individual Home Buyers
+C0116,Individual,71,Investment,2484590.08,8,0,Individual Home Buyers
+C0117,Individual,62,Investment,2884556.25,8,1,Corporate Buyers
+C0118,Individual,78,Investment,1218377.19,4,0,Individual Home Buyers
+C0119,Individual,84,Home,1603043.92,4,0,Individual Home Buyers
+C0120,Individual,73,Home,1753587.39,5,0,Individual Home Buyers
+C0121,Individual,76,Home,1169150.31,5,0,Individual Home Buyers
+C0122,Individual,53,Home,1412560.68,4,0,Individual Home Buyers
+C0123,Individual,64,Home,1821348.69,5,0,Individual Home Buyers
+C0124,Individual,63,Home,1613985.08,5,0,Individual Home Buyers
+C0125,Individual,50,Home,1341108.25,4,0,Individual Home Buyers
+C0126,Individual,54,Investment,1319929.46,5,0,Individual Home Buyers
+C0127,Individual,52,Home,967474.23,4,0,Individual Home Buyers
+C0128,Company,63,Investment,1639392.95,5,0,Individual Home Buyers
+C0129,Individual,53,Investment,1748372.75,4,0,Individual Home Buyers
+C0130,Individual,67,Home,1488042.88,4,0,Individual Home Buyers
+C0131,Individual,55,Home,1428058.55,5,0,Individual Home Buyers
+C0132,Individual,61,Home,1203775.04,4,0,Individual Home Buyers
+C0133,Individual,80,Investment,1449799.93,4,0,Individual Home Buyers
+C0134,Individual,94,Investment,1761669.87,5,1,Corporate Buyers
+C0135,Individual,87,Investment,1221442.92,4,0,Individual Home Buyers
+C0136,Individual,53,Home,1892554.72,5,0,Individual Home Buyers
+C0137,Individual,69,Home,989750.45,4,0,Individual Home Buyers
+C0138,Individual,87,Investment,1367824.55,5,0,Individual Home Buyers
+C0139,Individual,57,Home,1807366.3,5,0,Individual Home Buyers
+C0140,Individual,74,Home,1559561.53,5,0,Individual Home Buyers
+C0141,Individual,40,Home,1765019.09,5,0,Individual Home Buyers
+C0142,Individual,48,Home,1673770.19,5,0,Individual Home Buyers
+C0143,Individual,68,Home,2389960.3,8,0,Individual Home Buyers
+C0144,Individual,72,Home,1897739.74,5,0,Individual Home Buyers
+C0145,Individual,62,Home,1746571.55,5,0,Individual Home Buyers
+C0146,Individual,63,Home,1481536.39,4,0,Individual Home Buyers
+C0147,Individual,78,Home,1398309.27,5,0,Individual Home Buyers
+C0148,Individual,57,Investment,1700383.7,4,0,Individual Home Buyers
+C0149,Individual,71,Investment,1049009,4,1,Corporate Buyers
+C0150,Individual,58,Home,1846066.58,4,0,Individual Home Buyers
+C0151,Individual,50,Home,1589086.32,5,0,Individual Home Buyers
+C0152,Individual,59,Investment,2539205.93,7,0,Individual Home Buyers
+C0153,Individual,43,Home,1560375.26,5,0,Individual Home Buyers
+C0154,Individual,61,Home,2142457.31,5,0,Individual Home Buyers
+C0155,Company,51,Investment,1622885.53,5,0,Individual Home Buyers
+C0156,Individual,60,Home,1344903.47,4,0,Individual Home Buyers
+C0157,Individual,74,Home,1060400.03,4,0,Individual Home Buyers
+C0158,Individual,47,Investment,1439477.66,4,0,Individual Home Buyers
+C0159,Individual,84,Home,1596507.45,4,0,Individual Home Buyers
+C0160,Individual,67,Home,1679716.96,5,0,Individual Home Buyers
+C0161,Individual,75,Home,2534264.26,9,0,Individual Home Buyers
+C0162,Individual,73,Home,1135363.52,4,0,Individual Home Buyers
+C0163,Individual,40,Investment,1506594.21,4,0,Individual Home Buyers
+C0164,Individual,40,Home,1436152.54,4,0,Individual Home Buyers
+C0165,Individual,70,Home,1276849.33,3,0,Individual Home Buyers
+C0166,Individual,42,Home,1273643.37,4,0,Individual Home Buyers
+C0167,Individual,71,Home,2749577.33,7,1,Corporate Buyers
+C0168,Individual,66,Home,1491785.87,4,0,Individual Home Buyers
+C0169,Individual,36,Investment,688864.2,3,0,Individual Home Buyers
+C0170,Individual,77,Home,1161316.17,3,0,Individual Home Buyers
+C0171,Individual,35,Investment,1278753.71,4,0,Individual Home Buyers
+C0172,Individual,34,Home,1681471.91,4,0,Individual Home Buyers
+C0173,Individual,50,Home,2619968.43,8,0,Individual Home Buyers
+C0174,Individual,44,Investment,865359.73,3,0,Individual Home Buyers
+C0175,Individual,64,Home,1606138.12,4,0,Individual Home Buyers
+C0176,Individual,33,Home,2681927.91,6,0,Individual Home Buyers
+C0177,Individual,75,Home,2269897.21,7,1,Corporate Buyers
+C0178,Individual,74,Home,2665917.96,7,0,Individual Home Buyers
+C0179,Individual,40,Investment,2131372.11,8,0,Individual Home Buyers
+C0180,Individual,83,Home,2660292.37,7,0,Individual Home Buyers
+C0181,Individual,56,Home,2047189.62,7,0,Individual Home Buyers
+C0182,Individual,55,Investment,3082362.35,8,1,Corporate Buyers
+C0183,Individual,38,Home,1883106.92,7,0,Individual Home Buyers
+C0184,Individual,32,Home,2618938.16,6,0,Individual Home Buyers
+C0185,Individual,81,Home,2491911.81,7,0,Individual Home Buyers
+C0186,Individual,44,Home,2674286.63,8,0,Individual Home Buyers
+C0187,Individual,36,Home,2066651.14,6,0,Individual Home Buyers
+C0188,Individual,86,Home,2891447.6,7,0,Individual Home Buyers
+C0189,Individual,68,Home,2209659.42,7,0,Individual Home Buyers
+C0190,Individual,55,Home,2276701.17,7,0,Individual Home Buyers
+C0191,Individual,49,Home,2172926.76,8,0,Individual Home Buyers
+C0192,Individual,42,Investment,2900509.1,7,1,Corporate Buyers
+C0193,Individual,58,Investment,1933778.24,7,0,Individual Home Buyers
+C0194,Individual,73,Home,2759372.27,7,1,Corporate Buyers
+C0195,Individual,79,Home,2102233.85,7,0,Individual Home Buyers
+C0196,Individual,69,Investment,2611736.44,6,0,Individual Home Buyers
+C0197,Individual,82,Home,2775768.6,8,0,Individual Home Buyers
+C0198,Individual,50,Home,2399689.67,8,0,Individual Home Buyers
+C0199,Individual,68,Home,2582959.87,7,0,Individual Home Buyers
+C0200,Individual,82,Home,1071359.39,4,0,Individual Home Buyers
+C0201,Individual,58,Home,1298787.54,4,0,Individual Home Buyers
+C0202,Individual,30,Home,1019272.59,3,1,Corporate Buyers
+C0203,Individual,70,Home,1242478.83,4,0,Individual Home Buyers
+C0204,Individual,79,Home,934432.98,3,0,Individual Home Buyers
+C0205,Individual,58,Home,949224.48,3,0,Individual Home Buyers
+C0206,Individual,69,Home,853060.93,3,0,Individual Home Buyers
+C0207,Individual,82,Investment,889948.76,3,0,Individual Home Buyers
+C0208,Individual,40,Home,1199654.38,4,1,Corporate Buyers
+C0209,Individual,77,Investment,979868.13,4,0,Individual Home Buyers
+C0210,Individual,83,Home,1346156.55,4,0,Individual Home Buyers
+C0211,Individual,54,Home,1254240.07,4,0,Individual Home Buyers
+C0212,Individual,70,Home,1068278.76,3,0,Individual Home Buyers
+C0213,Individual,50,Investment,809691.13,3,0,Individual Home Buyers
+C0214,Individual,80,Investment,1070534.64,3,1,Corporate Buyers
+C0215,Individual,27,Investment,1032856.46,3,1,Corporate Buyers
+C0216,Individual,27,Home,1352642.34,4,0,Individual Home Buyers
+C0217,Individual,42,Home,1238434.91,4,0,Individual Home Buyers
+C0218,Individual,56,Home,836639.27,3,0,Individual Home Buyers
+C0219,Individual,38,Home,1267653.57,4,0,Individual Home Buyers
+C0220,Individual,75,Investment,1060812.68,3,1,Corporate Buyers
+C0221,Company,39,Home,1377133.6,4,0,Individual Home Buyers
+C0222,Individual,70,Investment,1223560.82,3,0,Individual Home Buyers
+C0223,Individual,53,Investment,969341.87,4,0,Individual Home Buyers
+C0224,Individual,66,Home,1189255.63,3,0,Individual Home Buyers
+C0225,Individual,78,Home,1120626.94,4,0,Individual Home Buyers
+C0226,Individual,68,Home,1571251.03,3,0,Individual Home Buyers
+C0227,Individual,82,Home,942245.37,3,0,Individual Home Buyers
+C0228,Individual,74,Investment,606605.72,3,0,Individual Home Buyers
+C0229,Individual,45,Investment,892220.13,3,0,Individual Home Buyers
+C0230,Company,49,Investment,1457429.02,4,0,Individual Home Buyers
+C0231,Individual,33,Investment,729893.08,3,0,Individual Home Buyers
+C0232,Individual,64,Home,1276710.49,4,0,Individual Home Buyers
+C0233,Individual,29,Home,1105806.54,4,1,Corporate Buyers
+C0234,Individual,47,Home,839967.04,3,0,Individual Home Buyers
+C0235,Individual,77,Home,1268586.58,4,0,Individual Home Buyers
+C0236,Individual,54,Home,1321475.69,3,1,Corporate Buyers
+C0237,Individual,42,Home,1392353.31,3,0,Individual Home Buyers
+C0238,Individual,44,Home,1125732.72,3,0,Individual Home Buyers
+C0239,Individual,53,Home,1352763.67,4,0,Individual Home Buyers
+C0240,Individual,84,Investment,935028.28,3,0,Individual Home Buyers
+C0241,Individual,64,Home,1025934.71,3,3,Luxury Investors
+C0242,Individual,28,Home,1358315.73,4,0,Individual Home Buyers
+C0243,Individual,48,Home,1382777.89,4,0,Individual Home Buyers
+C0244,Individual,28,Home,1046652.28,3,0,Individual Home Buyers
+C0245,Individual,52,Investment,1354584.5,3,0,Individual Home Buyers
+C0246,Individual,34,Home,1024485.26,3,1,Corporate Buyers
+C0247,Individual,61,Home,1696540.52,4,0,Individual Home Buyers
+C0248,Individual,58,Home,1035934.63,3,0,Individual Home Buyers
+C0249,Individual,58,Investment,1142995.52,4,0,Individual Home Buyers
+C0250,Individual,79,Home,982306.66,3,1,Corporate Buyers
+C0251,Individual,50,Home,463611.95,3,0,Individual Home Buyers
+C0252,Individual,73,Investment,1082221.48,3,0,Individual Home Buyers
+C0253,Individual,32,Home,1239226.11,4,0,Individual Home Buyers
+C0254,Individual,70,Home,1332152.57,4,0,Individual Home Buyers
+C0255,Individual,65,Investment,1689083.06,4,1,Corporate Buyers
+C0256,Individual,36,Home,1150229.15,3,0,Individual Home Buyers
+C0257,Individual,52,Home,1145456.23,3,0,Individual Home Buyers
+C0258,Individual,35,Home,1001712.37,3,1,Corporate Buyers
+C0259,Individual,36,Home,779396.41,3,0,Individual Home Buyers
+C0260,Individual,80,Investment,1057192.79,4,0,Individual Home Buyers
+C0261,Company,41,Investment,2094623.1,4,0,Individual Home Buyers
+C0262,Individual,79,Home,1233260.4,3,0,Individual Home Buyers
+C0263,Individual,45,Investment,969140.41,3,0,Individual Home Buyers
+C0264,Individual,34,Home,1127766.02,4,0,Individual Home Buyers
+C0265,Company,59,Home,1708031.99,4,1,Corporate Buyers
+C0266,Individual,49,Home,931646.38,3,0,Individual Home Buyers
+C0267,Individual,78,Home,1314495.01,4,0,Individual Home Buyers
+C0268,Individual,67,Investment,1108939.86,4,0,Individual Home Buyers
+C0269,Individual,57,Home,1049110.08,3,0,Individual Home Buyers
+C0270,Individual,82,Home,924009.9,3,0,Individual Home Buyers
+C0271,Individual,54,Investment,1295689.37,4,0,Individual Home Buyers
+C0272,Individual,33,Home,1439584.37,4,1,Corporate Buyers
+C0273,Individual,39,Investment,682452.64,3,0,Individual Home Buyers
+C0274,Individual,76,Home,1343449.34,3,0,Individual Home Buyers
+C0275,Individual,26,Home,1237500.3,4,0,Individual Home Buyers
+C0276,Individual,73,Home,1011195.98,3,0,Individual Home Buyers
+C0277,Individual,72,Investment,1123449.53,3,0,Individual Home Buyers
+C0278,Individual,71,Investment,1442538.67,3,0,Individual Home Buyers
+C0279,Individual,59,Home,1012986.25,3,0,Individual Home Buyers
+C0280,Individual,82,Home,1282020.93,4,0,Individual Home Buyers
+C0281,Individual,49,Home,1256275.37,3,0,Individual Home Buyers
+C0282,Individual,29,Investment,973863.8,4,0,Individual Home Buyers
+C0283,Individual,64,Home,1118599.47,4,0,Individual Home Buyers
+C0284,Individual,49,Home,1251975.85,4,0,Individual Home Buyers
+C0285,Individual,27,Investment,1679056.13,4,1,Corporate Buyers
+C0286,Individual,30,Home,859353.09,3,1,Corporate Buyers
+C0287,Individual,36,Home,1171265.03,3,1,Corporate Buyers
+C0288,Individual,29,Investment,1364289.23,4,0,Individual Home Buyers
+C0289,Individual,33,Investment,1533862.35,4,0,Individual Home Buyers
+C0290,Individual,64,Home,1215398.18,3,0,Individual Home Buyers
+C0291,Individual,73,Home,1322506.76,3,0,Individual Home Buyers
+C0292,Individual,81,Home,1442818.34,4,0,Individual Home Buyers
+C0293,Individual,33,Investment,1580876.65,4,0,Individual Home Buyers
+C0294,Individual,63,Home,1027250.91,4,0,Individual Home Buyers
+C0295,Individual,59,Home,1350375.73,3,1,Corporate Buyers
+C0296,Individual,42,Home,1142875.46,3,1,Corporate Buyers
+C0297,Individual,54,Investment,1709184.75,4,1,Corporate Buyers
+C0298,Individual,54,Home,1262479.23,4,0,Individual Home Buyers
+C0299,Individual,49,Home,1177661.76,4,1,Corporate Buyers
+C0300,Individual,67,Home,844956.55,3,1,Corporate Buyers
+C0301,Individual,67,Home,1045776.52,3,0,Individual Home Buyers
+C0302,Individual,50,Investment,1654300.33,4,0,Individual Home Buyers
+C0303,Individual,69,Investment,1519113.12,4,0,Individual Home Buyers
+C0304,Individual,67,Investment,1685753.28,4,0,Individual Home Buyers
+C0305,Individual,31,Home,1327736.23,3,0,Individual Home Buyers
+C0306,Individual,38,Home,1399698.79,4,0,Individual Home Buyers
+C0307,Individual,34,Home,1490170.38,4,0,Individual Home Buyers
+C0308,Individual,54,Investment,1176582.54,3,1,Corporate Buyers
+C0309,Individual,69,Home,1382649.58,3,0,Individual Home Buyers
+C0310,Individual,34,Home,1389329.62,3,1,Corporate Buyers
+C0311,Individual,74,Home,1632999.56,4,0,Individual Home Buyers
+C0312,Individual,85,Home,1105668.66,4,0,Individual Home Buyers
+C0313,Company,52,Home,1091085.93,3,0,Individual Home Buyers
+C0314,Individual,44,Investment,1040795.02,3,0,Individual Home Buyers
+C0315,Individual,39,Investment,1178606.56,4,0,Individual Home Buyers
+C0316,Individual,29,Investment,1792447.27,4,1,Corporate Buyers
+C0317,Individual,27,Investment,1248444.31,3,0,Individual Home Buyers
+C0318,Individual,52,Home,871968.67,3,1,Corporate Buyers
+C0319,Company,31,Home,2061054.65,4,0,Individual Home Buyers
+C0320,Individual,42,Home,1317732.09,3,0,Individual Home Buyers
+C0321,Individual,34,Investment,1701753.71,4,0,Individual Home Buyers
+C0322,Individual,30,Home,1347002.93,3,0,Individual Home Buyers
+C0323,Individual,51,Investment,1230825.62,3,0,Individual Home Buyers
+C0324,Individual,33,Home,1147121.25,3,0,Individual Home Buyers
+C0325,Individual,43,Home,1205175.56,4,0,Individual Home Buyers
+C0326,Individual,68,Investment,1321975.5,4,0,Individual Home Buyers
+C0327,Individual,65,Home,1116366.72,4,1,Corporate Buyers
+C0328,Individual,80,Home,1356560.31,4,0,Individual Home Buyers
+C0329,Individual,28,Home,770062.4,3,1,Corporate Buyers
+C0330,Individual,51,Home,1331463.63,4,0,Individual Home Buyers
+C0331,Individual,42,Investment,1546334.4,4,0,Individual Home Buyers
+C0332,Individual,37,Investment,1209987.46,3,0,Individual Home Buyers
+C0333,Individual,71,Home,1118960.06,3,1,Corporate Buyers
+C0334,Individual,76,Investment,1445655.93,4,0,Individual Home Buyers
+C0335,Individual,51,Home,1478341.12,4,0,Individual Home Buyers
+C0336,Individual,55,Investment,1163690.59,3,0,Individual Home Buyers
+C0337,Individual,84,Home,759310.2,3,0,Individual Home Buyers
+C0338,Individual,83,Home,1488671.13,4,0,Individual Home Buyers
+C0339,Individual,63,Investment,1548824.23,4,0,Individual Home Buyers
+C0340,Individual,86,Investment,1047500.42,3,0,Individual Home Buyers
+C0341,Individual,44,Investment,1679555.42,4,0,Individual Home Buyers
+C0342,Individual,52,Investment,1290567.39,3,0,Individual Home Buyers
+C0343,Individual,74,Home,1630923.97,4,0,Individual Home Buyers
+C0344,Individual,29,Home,1276344.68,4,1,Corporate Buyers
+C0345,Individual,57,Home,1339687.25,3,0,Individual Home Buyers
+C0346,Individual,63,Home,1174812.86,3,0,Individual Home Buyers
+C0347,Individual,34,Home,1378006.45,3,0,Individual Home Buyers
+C0348,Individual,44,Investment,1482633.92,4,0,Individual Home Buyers
+C0349,Individual,51,Home,1065745.84,3,0,Individual Home Buyers
+C0350,Individual,34,Home,1066408.3,3,0,Individual Home Buyers
+C0351,Individual,65,Home,1551113.76,4,0,Individual Home Buyers
+C0352,Individual,49,Investment,1339830.04,3,0,Individual Home Buyers
+C0353,Individual,62,Home,889855.16,3,0,Individual Home Buyers
+C0354,Individual,28,Home,962196.6,3,0,Individual Home Buyers
+C0355,Individual,75,Investment,1029593.97,3,0,Individual Home Buyers
+C0356,Individual,50,Home,964351.9,4,0,Individual Home Buyers
+C0357,Individual,38,Home,970629.22,3,0,Individual Home Buyers
+C0358,Individual,48,Home,1150919.74,3,1,Corporate Buyers
+C0359,Individual,75,Investment,1098189.89,3,0,Individual Home Buyers
+C0360,Individual,78,Home,1978026.48,4,0,Individual Home Buyers
+C0361,Individual,68,Home,1468372.25,4,1,Corporate Buyers
+C0362,Individual,26,Home,1129669.4,3,0,Individual Home Buyers
+C0363,Individual,67,Investment,1232301.44,4,0,Individual Home Buyers
+C0364,Individual,82,Home,1492505.18,4,0,Individual Home Buyers
+C0365,Individual,64,Investment,951259.9,3,0,Individual Home Buyers
+C0366,Individual,43,Home,1420135.32,3,0,Individual Home Buyers
+C0367,Individual,62,Investment,1662617.88,4,0,Individual Home Buyers
+C0368,Individual,34,Home,1494552.45,4,0,Individual Home Buyers
+C0369,Individual,72,Home,1586439.08,4,0,Individual Home Buyers
+C0370,Individual,69,Home,1613633.39,4,1,Corporate Buyers
+C0371,Individual,56,Investment,827208.61,3,2,Small Corporate Segment
+C0372,Individual,74,Investment,1280128.06,3,1,Corporate Buyers
+C0373,Individual,33,Home,1047277.18,3,0,Individual Home Buyers
+C0374,Individual,33,Investment,916825.86,4,1,Corporate Buyers
+C0375,Individual,58,Investment,1178580.64,3,0,Individual Home Buyers
+C0376,Individual,73,Home,1182808.29,3,0,Individual Home Buyers
+C0377,Individual,28,Home,822780.32,3,0,Individual Home Buyers
+C0378,Individual,69,Investment,812387.51,3,0,Individual Home Buyers
+C0379,Company,49,Investment,1254919.36,4,0,Individual Home Buyers
+C0380,Individual,53,Home,939708.87,3,0,Individual Home Buyers
+C0381,Individual,65,Home,878913.19,3,0,Individual Home Buyers
+C0382,Individual,51,Investment,980139.25,3,0,Individual Home Buyers
+C0383,Company,41,Investment,968070.64,4,0,Individual Home Buyers
+C0384,Individual,82,Home,1010761.74,3,0,Individual Home Buyers
+C0385,Individual,57,Investment,1289646.41,3,1,Corporate Buyers
+C0386,Individual,50,Home,1633972.21,3,0,Individual Home Buyers
+C0387,Individual,52,Home,1992983.55,4,0,Individual Home Buyers
+C0388,Individual,31,Home,961894.92,3,0,Individual Home Buyers
+C0389,Individual,72,Home,1261549.09,4,0,Individual Home Buyers
+C0390,Individual,84,Investment,1678762.07,4,1,Corporate Buyers
+C0391,Individual,60,Home,1035012.91,3,0,Individual Home Buyers
+C0392,Individual,49,Home,1015830.03,4,0,Individual Home Buyers
+C0393,Individual,38,Home,1616556.78,4,0,Individual Home Buyers
+C0394,Individual,72,Home,1258840,4,0,Individual Home Buyers
+C0395,Individual,67,Home,1153134.48,3,0,Individual Home Buyers
+C0396,Individual,26,Home,1181447.25,4,0,Individual Home Buyers
+C0397,Individual,26,Home,793543.27,3,0,Individual Home Buyers
+C0398,Individual,78,Home,1186693.85,4,0,Individual Home Buyers
+C0399,Individual,42,Home,1229057.49,4,0,Individual Home Buyers
+C0400,Individual,67,Home,1360152.99,4,0,Individual Home Buyers
+C0401,Individual,57,Home,1020913.07,4,0,Individual Home Buyers
+C0402,Individual,85,Home,1054166.95,3,0,Individual Home Buyers
+C0403,Individual,63,Home,878792.98,3,1,Corporate Buyers
+C0404,Individual,50,Investment,731788.96,3,1,Corporate Buyers
+C0405,Company,57,Home,1310963.25,4,0,Individual Home Buyers
+C0406,Individual,66,Home,1317165.12,4,0,Individual Home Buyers
+C0407,Individual,44,Home,1254494.91,4,0,Individual Home Buyers
+C0408,Individual,49,Home,1320497.01,3,0,Individual Home Buyers
+C0409,Individual,54,Home,1816669.2,4,0,Individual Home Buyers
+C0410,Individual,44,Home,1021706.02,3,1,Corporate Buyers
+C0411,Individual,43,Home,896987.21,3,0,Individual Home Buyers
+C0412,Individual,42,Home,1100376.25,3,1,Corporate Buyers
+C0413,Individual,86,Home,1769126.22,4,1,Corporate Buyers
+C0414,Individual,64,Home,1412148.94,4,0,Individual Home Buyers
+C0415,Individual,46,Home,1305928.35,4,0,Individual Home Buyers
+C0416,Company,45,Investment,1059532.51,3,1,Corporate Buyers
+C0417,Individual,79,Home,1354773.96,3,0,Individual Home Buyers
+C0418,Individual,30,Home,1629486.83,4,0,Individual Home Buyers
+C0419,Individual,64,Home,1174012.19,4,0,Individual Home Buyers
+C0420,Individual,32,Home,1260096.16,3,0,Individual Home Buyers
+C0421,Individual,51,Investment,1495763.37,4,1,Corporate Buyers
+C0422,Company,53,Home,1653171.62,4,0,Individual Home Buyers
+C0423,Individual,76,Home,1068716.19,3,0,Individual Home Buyers
+C0424,Individual,28,Home,1034036.3,3,0,Individual Home Buyers
+C0425,Individual,61,Home,1256932.48,3,0,Individual Home Buyers
+C0426,Individual,73,Home,890250.61,3,0,Individual Home Buyers
+C0427,Individual,32,Home,1457016.31,4,0,Individual Home Buyers
+C0428,Individual,64,Home,984451.32,4,0,Individual Home Buyers
+C0429,Individual,31,Home,1503904.16,4,0,Individual Home Buyers
+C0430,Individual,52,Home,931141.96,3,0,Individual Home Buyers
+C0431,Individual,57,Home,1544751.33,4,0,Individual Home Buyers
+C0432,Company,31,Home,1277850.15,4,0,Individual Home Buyers
+C0433,Individual,57,Investment,1937061.37,4,0,Individual Home Buyers
+C0434,Individual,62,Home,1364889.24,3,1,Corporate Buyers
+C0435,Individual,60,Home,908970.34,3,1,Corporate Buyers
+C0436,Individual,54,Home,1327594.64,4,0,Individual Home Buyers
+C0437,Individual,36,Home,657032.82,3,0,Individual Home Buyers
+C0438,Individual,44,Investment,1458641.1,4,0,Individual Home Buyers
+C0439,Individual,70,Home,1273328.62,3,0,Individual Home Buyers
+C0440,Individual,66,Investment,703498.83,3,0,Individual Home Buyers
+C0441,Individual,46,Investment,1525849.55,4,1,Corporate Buyers
+C0442,Individual,51,Home,1707466.97,4,0,Individual Home Buyers
+C0443,Individual,76,Home,1355839.1,3,0,Individual Home Buyers
+C0444,Individual,85,Home,1054514.54,4,0,Individual Home Buyers
+C0445,Individual,31,Home,1425691.63,4,0,Individual Home Buyers
+C0446,Individual,71,Home,1024655.04,3,0,Individual Home Buyers
+C0447,Individual,70,Home,1543592.15,3,0,Individual Home Buyers
+C0448,Individual,46,Investment,942066.48,3,0,Individual Home Buyers
+C0449,Individual,54,Investment,1418922.44,3,0,Individual Home Buyers
+C0450,Individual,34,Home,1555297.37,4,3,Luxury Investors
+C0451,Individual,41,Investment,1665967.41,4,1,Corporate Buyers
+C0452,Individual,59,Home,1398358.69,4,0,Individual Home Buyers
+C0453,Individual,33,Investment,1321010.76,4,1,Corporate Buyers
+C0454,Company,65,Investment,980683.73,3,0,Individual Home Buyers
+C0455,Individual,63,Home,1125726.62,4,0,Individual Home Buyers
+C0456,Individual,31,Home,1349210.55,3,0,Individual Home Buyers
+C0457,Individual,46,Investment,1399940.21,3,1,Corporate Buyers
+C0458,Individual,31,Investment,1382881.81,4,0,Individual Home Buyers
+C0459,Individual,71,Home,821716.14,3,0,Individual Home Buyers
+C0460,Individual,34,Home,1061349.03,3,0,Individual Home Buyers
+C0461,Individual,66,Home,986630.39,3,0,Individual Home Buyers
+C0462,Individual,83,Home,1606667.68,4,1,Corporate Buyers
+C0463,Individual,56,Home,1235094.73,4,0,Individual Home Buyers
+C0464,Individual,52,Home,1455550,4,0,Individual Home Buyers
+C0465,Individual,77,Home,707799.92,3,0,Individual Home Buyers
+C0466,Individual,38,Investment,1228651.21,4,0,Individual Home Buyers
+C0467,Individual,74,Home,976066.93,3,0,Individual Home Buyers
+C0468,Individual,74,Investment,1267396.8,3,0,Individual Home Buyers
+C0469,Individual,29,Home,1518476.47,4,0,Individual Home Buyers
+C0470,Individual,63,Home,862552.54,3,0,Individual Home Buyers
+C0471,Individual,42,Investment,1084997.39,3,0,Individual Home Buyers
+C0472,Individual,75,Home,1277486.37,3,0,Individual Home Buyers
+C0473,Individual,45,Home,1304527.66,4,0,Individual Home Buyers
+C0474,Individual,31,Home,962015.29,4,0,Individual Home Buyers
+C0475,Individual,80,Investment,1234470.16,3,2,Small Corporate Segment
+C0476,Individual,29,Home,1485303.01,4,0,Individual Home Buyers
+C0477,Individual,42,Investment,1535114.88,3,0,Individual Home Buyers
+C0478,Individual,86,Investment,774892.79,3,0,Individual Home Buyers
+C0479,Individual,48,Home,1172782.93,4,0,Individual Home Buyers
+C0480,Individual,52,Home,1033261.03,4,0,Individual Home Buyers
+C0481,Individual,50,Home,1365460.24,4,0,Individual Home Buyers
+C0482,Individual,46,Investment,1006132.77,3,0,Individual Home Buyers
+C0483,Individual,41,Investment,881113.79,3,0,Individual Home Buyers
+C0484,Individual,37,Investment,1313240.67,4,0,Individual Home Buyers
+C0485,Individual,35,Home,1000841.18,3,0,Individual Home Buyers
+C0486,Individual,27,Investment,1090587.66,3,0,Individual Home Buyers
+C0487,Individual,35,Home,1576272.71,4,0,Individual Home Buyers
+C0488,Individual,47,Investment,1218265.36,4,0,Individual Home Buyers
+C0489,Individual,76,Investment,1025274.77,3,1,Corporate Buyers
+C0490,Individual,72,Investment,1292367.93,3,0,Individual Home Buyers
+C0491,Individual,85,Home,1106379.8,3,0,Individual Home Buyers
+C0492,Individual,26,Home,1300917.1,4,0,Individual Home Buyers
+C0493,Individual,72,Home,1312198.98,4,0,Individual Home Buyers
+C0494,Individual,36,Home,1052676.65,4,0,Individual Home Buyers
+C0495,Individual,72,Investment,1246742.44,4,0,Individual Home Buyers
+C0496,Individual,36,Home,1120376.44,4,0,Individual Home Buyers
+C0497,Individual,41,Investment,1330684.99,3,0,Individual Home Buyers
+C0498,Individual,78,Home,1007455.29,3,1,Corporate Buyers
+C0499,Individual,80,Home,897769.81,3,0,Individual Home Buyers
+C0500,Individual,49,Home,1294944.52,3,0,Individual Home Buyers
+C0501,Individual,31,Investment,1741166.27,4,0,Individual Home Buyers
+C0502,Individual,60,Home,1537989.75,4,0,Individual Home Buyers
+C0503,Individual,83,Investment,1432167.34,4,0,Individual Home Buyers
+C0504,Individual,34,Home,1367188.58,4,0,Individual Home Buyers
+C0505,Individual,31,Home,1043535.21,3,0,Individual Home Buyers
+C0506,Individual,59,Home,1122203.03,3,0,Individual Home Buyers
+C0507,Individual,75,Home,1062656.61,3,0,Individual Home Buyers
+C0508,Individual,56,Home,833710.06,3,0,Individual Home Buyers
+C0509,Individual,70,Home,1687930.25,4,2,Small Corporate Segment
+C0510,Individual,79,Investment,1094232.67,3,1,Corporate Buyers
+C0511,Individual,72,Home,1090537.6,3,1,Corporate Buyers
+C0512,Individual,81,Home,1448158.14,3,0,Individual Home Buyers
+C0513,Individual,27,Home,974596.63,3,0,Individual Home Buyers
+C0514,Individual,49,Home,1528027.54,4,0,Individual Home Buyers
+C0515,Individual,63,Home,1561824.93,4,0,Individual Home Buyers
+C0516,Individual,80,Home,1437837.49,4,0,Individual Home Buyers
+C0517,Individual,67,Home,1115807,4,0,Individual Home Buyers
+C0518,Company,64,Home,1633111.65,4,0,Individual Home Buyers
+C0519,Individual,51,Investment,981719.26,3,0,Individual Home Buyers
+C0520,Individual,56,Home,1033523.16,3,0,Individual Home Buyers
+C0521,Individual,59,Home,1074306.5,4,1,Corporate Buyers
+C0522,Individual,84,Home,993023.13,3,0,Individual Home Buyers
+C0523,Individual,66,Home,928962.95,3,0,Individual Home Buyers
+C0524,Individual,73,Home,801104.69,3,0,Individual Home Buyers
+C0525,Individual,76,Home,1629457.52,4,0,Individual Home Buyers
+C0526,Individual,58,Home,1301139.77,3,1,Corporate Buyers
+C0527,Individual,47,Home,1138099.7,3,0,Individual Home Buyers
+C0528,Individual,26,Investment,1118472.87,3,0,Individual Home Buyers
+C0529,Individual,53,Home,1268138.95,4,0,Individual Home Buyers
+C0530,Individual,74,Home,1559124.69,4,0,Individual Home Buyers
+C0531,Individual,50,Home,1911300.78,4,0,Individual Home Buyers
+C0532,Individual,47,Home,1075202.77,4,1,Corporate Buyers
+C0533,Individual,63,Investment,990028.19,4,0,Individual Home Buyers
+C0534,Individual,68,Investment,1133195.2,3,0,Individual Home Buyers
+C0535,Individual,39,Home,1299053.94,3,1,Corporate Buyers
+C0536,Individual,70,Investment,983106.84,3,0,Individual Home Buyers
+C0537,Individual,64,Home,1490327.5,4,0,Individual Home Buyers
+C0538,Individual,57,Home,1206897.7,4,0,Individual Home Buyers
+C0539,Individual,35,Investment,1645321.2,4,0,Individual Home Buyers
+C0540,Individual,29,Home,494173.31,3,0,Individual Home Buyers
+C0541,Individual,26,Home,1721673.54,4,1,Corporate Buyers
+C0542,Company,41,Home,1195819.4,4,0,Individual Home Buyers
+C0543,Individual,79,Home,753145.67,3,0,Individual Home Buyers
+C0544,Individual,52,Home,1636756.28,4,0,Individual Home Buyers
+C0545,Individual,84,Home,1260126.39,3,0,Individual Home Buyers
+C0546,Individual,59,Home,795528.06,3,1,Corporate Buyers
+C0547,Individual,79,Investment,1178457.95,4,0,Individual Home Buyers
+C0548,Individual,46,Home,1047476.93,3,0,Individual Home Buyers
+C0549,Individual,54,Home,941219.76,3,0,Individual Home Buyers
+C0550,Company,59,Home,1414568.09,4,0,Individual Home Buyers
+C0551,Individual,66,Investment,1007397.56,3,0,Individual Home Buyers
+C0552,Individual,61,Investment,1141476.56,3,0,Individual Home Buyers
+C0553,Individual,48,Home,821534.94,3,0,Individual Home Buyers
+C0554,Individual,78,Home,1643592.85,4,1,Corporate Buyers
+C0555,Individual,55,Investment,1064533.27,3,0,Individual Home Buyers
+C0556,Individual,68,Home,1335478.18,3,0,Individual Home Buyers
+C0557,Individual,85,Investment,733161.98,3,0,Individual Home Buyers
+C0558,Individual,52,Home,1033995.96,3,1,Corporate Buyers
+C0559,Company,57,Home,1004028.87,4,0,Individual Home Buyers
+C0560,Individual,38,Home,1433718.12,3,1,Corporate Buyers
+C0561,Company,64,Investment,1589252.43,4,0,Individual Home Buyers
+C0562,Individual,86,Investment,1423675.72,4,0,Individual Home Buyers
+C0563,Individual,35,Home,1012807.93,4,0,Individual Home Buyers
+C0564,Individual,74,Home,1135017.6,3,0,Individual Home Buyers
+C0565,Individual,41,Home,1043494.32,3,1,Corporate Buyers
+C0566,Individual,26,Investment,1167701.9,4,0,Individual Home Buyers
+C0567,Individual,73,Investment,1869286.1,4,1,Corporate Buyers
+C0568,Individual,73,Home,944335.88,3,0,Individual Home Buyers
+C0569,Individual,55,Home,1384749.3,3,0,Individual Home Buyers
+C0570,Individual,61,Home,1527210.47,4,1,Corporate Buyers
+C0571,Individual,60,Home,1549969.49,4,0,Individual Home Buyers
+C0572,Individual,33,Investment,1519677.44,4,0,Individual Home Buyers
+C0573,Company,49,Home,785842.76,3,0,Individual Home Buyers
+C0574,Individual,58,Home,1261906.32,4,0,Individual Home Buyers
+C0575,Individual,60,Investment,1018391.27,3,0,Individual Home Buyers
+C0576,Individual,67,Home,1047406.79,3,1,Corporate Buyers
+C0577,Individual,37,Home,693899.01,3,0,Individual Home Buyers
+C0578,Individual,27,Home,707276.53,3,0,Individual Home Buyers
+C0579,Individual,85,Investment,1198428.64,3,0,Individual Home Buyers
+C0580,Individual,78,Home,2158954.78,4,0,Individual Home Buyers
+C0581,Individual,69,Investment,1029755.56,4,0,Individual Home Buyers
+C0582,Individual,86,Investment,708559.15,3,0,Individual Home Buyers
+C0583,Individual,40,Home,1237228.18,4,0,Individual Home Buyers
+C0584,Individual,44,Home,1135691.62,3,0,Individual Home Buyers
+C0585,Individual,65,Home,1003690.18,4,0,Individual Home Buyers
+C0586,Individual,49,Home,1226524.31,3,0,Individual Home Buyers
+C0587,Individual,34,Home,1093439.84,4,0,Individual Home Buyers
+C0588,Individual,37,Home,1495976.14,4,0,Individual Home Buyers
+C0589,Individual,80,Investment,1982246.22,4,0,Individual Home Buyers
+C0590,Individual,60,Investment,1105388.89,4,1,Corporate Buyers
+C0591,Individual,58,Home,1336217.65,3,0,Individual Home Buyers
+C0592,Individual,54,Investment,787516.58,3,0,Individual Home Buyers
+C0593,Individual,74,Home,2012063.38,4,0,Individual Home Buyers
+C0594,Individual,84,Home,1137572.87,3,0,Individual Home Buyers
+C0595,Individual,60,Home,914304.97,3,0,Individual Home Buyers
+C0596,Individual,50,Home,1094771.49,4,0,Individual Home Buyers
+C0597,Individual,40,Home,976844.17,3,1,Corporate Buyers
+C0598,Individual,77,Investment,1398930.7,4,0,Individual Home Buyers
+C0599,Individual,28,Home,1162815.78,3,1,Corporate Buyers
+C0600,Individual,42,Investment,917709.61,3,0,Individual Home Buyers
+C0601,Individual,54,Home,1700411.72,4,0,Individual Home Buyers
+C0602,Individual,42,Home,905508.82,4,1,Corporate Buyers
+C0603,Individual,32,Home,1218095.3,4,0,Individual Home Buyers
+C0604,Individual,28,Home,791133.03,3,2,Small Corporate Segment
+C0605,Individual,52,Home,1407314.33,4,0,Individual Home Buyers
+C0606,Individual,77,Investment,1070969.53,3,1,Corporate Buyers
+C0607,Individual,64,Home,1125230.12,3,0,Individual Home Buyers
+C0608,Individual,70,Home,1201411.56,4,0,Individual Home Buyers
+C0609,Individual,65,Home,1307567.64,4,0,Individual Home Buyers
+C0610,Individual,56,Investment,1178597.68,3,0,Individual Home Buyers
+C0611,Individual,76,Home,1142671.94,4,0,Individual Home Buyers
+C0612,Individual,66,Home,1671846.3,4,0,Individual Home Buyers
+C0613,Individual,31,Home,1186019.52,3,1,Corporate Buyers
+C0614,Individual,54,Home,1025958.38,4,1,Corporate Buyers
+C0615,Individual,69,Home,919002.01,4,0,Individual Home Buyers
+C0616,Individual,63,Investment,1013364.3,3,0,Individual Home Buyers
+C0617,Individual,40,Home,766861.21,3,0,Individual Home Buyers
+C0618,Individual,58,Home,982803,3,0,Individual Home Buyers
+C0619,Individual,56,Home,1411977.41,3,0,Individual Home Buyers
+C0620,Individual,66,Home,1532429.29,3,1,Corporate Buyers
+C0621,Individual,44,Investment,791609.11,3,1,Corporate Buyers
+C0622,Individual,39,Investment,869334.73,3,0,Individual Home Buyers
+C0623,Individual,40,Investment,1410333.45,4,0,Individual Home Buyers
+C0624,Individual,26,Investment,1215611.54,3,0,Individual Home Buyers
+C0625,Individual,43,Investment,1000166.88,4,1,Corporate Buyers
+C0626,Individual,58,Investment,1061694.13,3,1,Corporate Buyers
+C0627,Individual,26,Home,1870806.42,4,0,Individual Home Buyers
+C0628,Individual,41,Home,1623109.63,4,1,Corporate Buyers
+C0629,Individual,80,Investment,961721.77,3,0,Individual Home Buyers
+C0630,Individual,61,Home,1308077.61,4,0,Individual Home Buyers
+C0631,Individual,60,Home,1534891.22,4,0,Individual Home Buyers
+C0632,Individual,78,Home,1146845.98,4,1,Corporate Buyers
+C0633,Individual,85,Home,1207516.26,4,0,Individual Home Buyers
+C0634,Individual,46,Investment,1181693.63,3,0,Individual Home Buyers
+C0635,Individual,66,Investment,1375700.03,3,1,Corporate Buyers
+C0636,Individual,46,Home,981810.08,4,1,Corporate Buyers
+C0637,Individual,59,Home,1602478.07,4,0,Individual Home Buyers
+C0638,Individual,51,Home,1347045.42,4,0,Individual Home Buyers
+C0639,Individual,65,Home,861670.72,3,1,Corporate Buyers
+C0640,Individual,59,Home,772950.17,3,0,Individual Home Buyers
+C0641,Company,32,Home,1217213.26,3,0,Individual Home Buyers
+C0642,Individual,59,Home,1027140.61,3,0,Individual Home Buyers
+C0643,Individual,52,Home,928645.01,3,0,Individual Home Buyers
+C0644,Individual,70,Home,1549624.23,3,0,Individual Home Buyers
+C0645,Individual,38,Home,731453.53,3,0,Individual Home Buyers
+C0646,Individual,31,Investment,1325311.83,3,0,Individual Home Buyers
+C0647,Individual,80,Home,2115520.42,4,0,Individual Home Buyers
+C0648,Individual,27,Home,1142985.38,4,0,Individual Home Buyers
+C0649,Individual,31,Home,1401448.51,4,0,Individual Home Buyers
+C0650,Company,50,Home,799742.26,3,1,Corporate Buyers
+C0651,Company,33,Home,1077094.73,4,0,Individual Home Buyers
+C0652,Individual,33,Home,904157.22,3,0,Individual Home Buyers
+C0653,Individual,56,Home,1215543.15,4,0,Individual Home Buyers
+C0654,Individual,66,Home,865293.89,3,0,Individual Home Buyers
+C0655,Individual,76,Home,1071763.22,3,0,Individual Home Buyers
+C0656,Individual,49,Home,1288383.38,4,0,Individual Home Buyers
+C0657,Individual,70,Home,1258111.32,3,0,Individual Home Buyers
+C0658,Individual,27,Home,1122021.28,3,0,Individual Home Buyers
+C0659,Individual,38,Home,1000550.86,4,0,Individual Home Buyers
+C0660,Individual,35,Home,1148308.35,3,0,Individual Home Buyers
+C0661,Individual,65,Home,1627713.05,4,1,Corporate Buyers
+C0662,Individual,69,Investment,1520239.97,4,0,Individual Home Buyers
+C0663,Individual,68,Home,1544313.34,4,0,Individual Home Buyers
+C0664,Individual,68,Investment,1063024.57,4,1,Corporate Buyers
+C0665,Individual,67,Investment,704886.02,3,0,Individual Home Buyers
+C0666,Individual,78,Investment,1532074.27,4,0,Individual Home Buyers
+C0667,Individual,60,Investment,1486560.06,4,0,Individual Home Buyers
+C0668,Individual,48,Investment,987175.01,4,1,Corporate Buyers
+C0669,Individual,68,Home,1366533.49,3,1,Corporate Buyers
+C0670,Company,50,Investment,1631973.55,3,0,Individual Home Buyers
+C0671,Individual,85,Home,759678.12,3,0,Individual Home Buyers
+C0672,Individual,59,Home,1301968.05,3,0,Individual Home Buyers
+C0673,Individual,61,Home,870503.9,3,0,Individual Home Buyers
+C0674,Individual,40,Investment,1733438.52,4,0,Individual Home Buyers
+C0675,Individual,57,Home,1117159.17,3,0,Individual Home Buyers
+C0676,Individual,84,Home,1022396.03,3,0,Individual Home Buyers
+C0677,Individual,45,Investment,1217015.11,4,0,Individual Home Buyers
+C0678,Individual,54,Home,904050.87,3,0,Individual Home Buyers
+C0679,Individual,62,Home,1945371.68,4,0,Individual Home Buyers
+C0680,Individual,61,Investment,1533727.71,4,0,Individual Home Buyers
+C0681,Company,49,Home,736696.97,4,0,Individual Home Buyers
+C0682,Individual,53,Home,1436006.22,4,0,Individual Home Buyers
+C0683,Individual,78,Home,1216565.53,3,0,Individual Home Buyers
+C0684,Individual,41,Home,1402625.45,4,0,Individual Home Buyers
+C0685,Individual,39,Home,1129835.06,3,0,Individual Home Buyers
+C0686,Individual,63,Home,1250166.33,3,0,Individual Home Buyers
+C0687,Individual,67,Home,1532604,4,0,Individual Home Buyers
+C0688,Individual,58,Investment,1093762.42,4,0,Individual Home Buyers
+C0689,Individual,28,Home,1051259.37,3,0,Individual Home Buyers
+C0690,Individual,41,Home,1402023.24,4,0,Individual Home Buyers
+C0691,Individual,83,Investment,948552.89,4,0,Individual Home Buyers
+C0692,Individual,62,Investment,1206585.87,4,0,Individual Home Buyers
+C0693,Individual,69,Investment,1831502.92,4,0,Individual Home Buyers
+C0694,Company,37,Investment,1287767.07,4,1,Corporate Buyers
+C0695,Individual,79,Home,870451.65,3,0,Individual Home Buyers
+C0696,Individual,32,Investment,1417025.49,4,0,Individual Home Buyers
+C0697,Individual,40,Investment,1203571.2,4,0,Individual Home Buyers
+C0698,Individual,80,Home,1560635.51,4,0,Individual Home Buyers
+C0699,Individual,40,Home,1292445.15,3,0,Individual Home Buyers
+C0700,Individual,82,Home,724453.7,3,0,Individual Home Buyers
+C0701,Individual,64,Investment,1318537.76,4,1,Corporate Buyers
+C0702,Individual,60,Home,1215022,3,0,Individual Home Buyers
+C0703,Company,42,Home,938073.57,3,0,Individual Home Buyers
+C0704,Individual,84,Home,1130778.86,3,0,Individual Home Buyers
+C0705,Individual,86,Home,1643383.67,3,0,Individual Home Buyers
+C0706,Individual,42,Investment,1034954.84,3,1,Corporate Buyers
+C0707,Individual,31,Home,1171255.22,4,0,Individual Home Buyers
+C0708,Individual,62,Home,1539340.87,3,0,Individual Home Buyers
+C0709,Individual,44,Home,1233960.52,4,0,Individual Home Buyers
+C0710,Individual,80,Home,1158001.36,4,0,Individual Home Buyers
+C0711,Individual,31,Investment,1045658.54,4,0,Individual Home Buyers
+C0712,Individual,35,Home,701688.31,3,0,Individual Home Buyers
+C0713,Individual,29,Investment,946537.74,3,0,Individual Home Buyers
+C0714,Individual,49,Home,1520218.18,3,1,Corporate Buyers
+C0715,Individual,44,Home,1151372.75,3,0,Individual Home Buyers
+C0716,Individual,32,Home,1173245.74,3,1,Corporate Buyers
+C0717,Individual,80,Investment,1000529.67,3,0,Individual Home Buyers
+C0718,Individual,82,Home,900157.91,3,1,Corporate Buyers
+C0719,Individual,52,Investment,912916.77,3,0,Individual Home Buyers
+C0720,Individual,45,Investment,844316.69,4,0,Individual Home Buyers
+C0721,Individual,27,Home,1167212.02,4,0,Individual Home Buyers
+C0722,Individual,83,Home,936104.05,3,0,Individual Home Buyers
+C0723,Individual,27,Home,1554043.79,3,1,Corporate Buyers
+C0724,Individual,66,Investment,1564795.28,4,0,Individual Home Buyers
+C0725,Individual,43,Home,1557779.53,3,0,Individual Home Buyers
+C0726,Individual,49,Home,1055406.17,4,0,Individual Home Buyers
+C0727,Individual,85,Investment,1924218.25,4,0,Individual Home Buyers
+C0728,Individual,55,Home,896046.43,3,0,Individual Home Buyers
+C0729,Individual,82,Investment,1100578.42,3,0,Individual Home Buyers
+C0730,Individual,38,Investment,1395460.54,3,0,Individual Home Buyers
+C0731,Individual,26,Home,2163873.35,4,0,Individual Home Buyers
+C0732,Individual,41,Home,1763602.47,4,0,Individual Home Buyers
+C0733,Individual,50,Home,1610480.1,3,0,Individual Home Buyers
+C0734,Individual,45,Investment,894573.22,3,0,Individual Home Buyers
+C0735,Individual,32,Investment,1082670.51,3,1,Corporate Buyers
+C0736,Individual,84,Investment,961660.45,3,0,Individual Home Buyers
+C0737,Individual,48,Investment,1271295.42,3,0,Individual Home Buyers
+C0738,Individual,46,Home,1217179.49,4,0,Individual Home Buyers
+C0739,Individual,61,Home,1239915.48,4,0,Individual Home Buyers
+C0740,Individual,60,Investment,1150084.72,3,0,Individual Home Buyers
+C0741,Individual,64,Home,808100.3,3,0,Individual Home Buyers
+C0742,Individual,46,Home,943082.42,3,1,Corporate Buyers
+C0743,Individual,54,Investment,973707.31,3,0,Individual Home Buyers
+C0744,Individual,76,Home,947393.7,3,0,Individual Home Buyers
+C0745,Individual,29,Investment,1137226.12,4,0,Individual Home Buyers
+C0746,Individual,70,Home,1485041.45,4,1,Corporate Buyers
+C0747,Individual,34,Home,1321142.35,3,0,Individual Home Buyers
+C0748,Company,52,Home,1188736.23,3,0,Individual Home Buyers
+C0749,Individual,34,Home,1170883.93,3,0,Individual Home Buyers
+C0750,Individual,50,Investment,887696.78,3,0,Individual Home Buyers
+C0751,Individual,52,Home,1055948.97,4,0,Individual Home Buyers
+C0752,Individual,72,Investment,836214.24,4,1,Corporate Buyers
+C0753,Individual,66,Home,1053102.32,4,1,Corporate Buyers
+C0754,Individual,56,Investment,1300009.56,4,0,Individual Home Buyers
+C0755,Company,59,Home,1040997.25,3,0,Individual Home Buyers
+C0756,Individual,63,Home,785768.09,3,0,Individual Home Buyers
+C0757,Individual,80,Home,1392690.12,4,0,Individual Home Buyers
+C0758,Individual,68,Investment,1135189.16,4,0,Individual Home Buyers
+C0759,Individual,35,Home,1327801.32,3,0,Individual Home Buyers
+C0760,Individual,62,Investment,1288008.21,4,0,Individual Home Buyers
+C0761,Individual,45,Home,1387948.07,4,1,Corporate Buyers
+C0762,Individual,59,Home,1456185.33,4,0,Individual Home Buyers
+C0763,Company,55,Home,1036781.97,3,0,Individual Home Buyers
+C0764,Individual,43,Investment,1670624.74,4,1,Corporate Buyers
+C0765,Individual,59,Home,1516418.29,4,1,Corporate Buyers
+C0766,Individual,32,Home,1601876.14,4,1,Corporate Buyers
+C0767,Individual,65,Investment,1403932.48,4,1,Corporate Buyers
+C0768,Individual,34,Investment,1048127.47,3,0,Individual Home Buyers
+C0769,Individual,68,Home,675607.79,3,0,Individual Home Buyers
+C0770,Individual,75,Home,984598.73,3,1,Corporate Buyers
+C0771,Company,42,Home,1856997.08,4,0,Individual Home Buyers
+C0772,Individual,35,Investment,911164.52,3,0,Individual Home Buyers
+C0773,Individual,62,Home,1451465.46,4,1,Corporate Buyers
+C0774,Individual,43,Home,999792.68,3,0,Individual Home Buyers
+C0775,Individual,51,Home,1043608.37,4,0,Individual Home Buyers
+C0776,Individual,60,Home,914465.33,3,1,Corporate Buyers
+C0777,Company,44,Home,1130759.41,3,0,Individual Home Buyers
+C0778,Individual,28,Investment,1646921.92,4,0,Individual Home Buyers
+C0779,Individual,73,Home,1221957.12,3,0,Individual Home Buyers
+C0780,Individual,79,Home,708761.69,3,0,Individual Home Buyers
+C0781,Individual,86,Investment,1181206.69,4,0,Individual Home Buyers
+C0782,Individual,56,Investment,1166638.16,4,0,Individual Home Buyers
+C0783,Individual,65,Home,1031472.36,3,1,Corporate Buyers
+C0784,Individual,53,Investment,1172514.65,3,0,Individual Home Buyers
+C0785,Company,55,Home,1047112.48,4,0,Individual Home Buyers
+C0786,Individual,43,Investment,663797.37,3,0,Individual Home Buyers
+C0787,Individual,76,Home,1405947.66,3,0,Individual Home Buyers
+C0788,Individual,82,Investment,1799447.01,4,1,Corporate Buyers
+C0789,Individual,52,Investment,1125271.6,3,1,Corporate Buyers
+C0790,Individual,52,Home,1521440.86,4,0,Individual Home Buyers
+C0791,Individual,43,Home,1424465.81,4,0,Individual Home Buyers
+C0792,Individual,44,Investment,1559979.82,4,0,Individual Home Buyers
+C0793,Individual,57,Home,1245234.35,4,0,Individual Home Buyers
+C0794,Individual,75,Home,1120488.77,3,0,Individual Home Buyers
+C0795,Individual,57,Investment,1170869.09,3,0,Individual Home Buyers
+C0796,Individual,43,Investment,559596.54,3,0,Individual Home Buyers
+C0797,Individual,36,Home,881179.3,3,0,Individual Home Buyers
+C0798,Company,61,Home,987267.48,4,0,Individual Home Buyers
+C0799,Individual,72,Home,1108935.86,4,0,Individual Home Buyers
+C0800,Individual,52,Investment,983573.18,3,0,Individual Home Buyers
+C0801,Individual,57,Home,1361712.3,3,0,Individual Home Buyers
+C0802,Individual,56,Home,1074480.81,3,0,Individual Home Buyers
+C0803,Individual,81,Home,1542819.53,4,0,Individual Home Buyers
+C0804,Individual,59,Home,1223755.92,3,0,Individual Home Buyers
+C0805,Individual,73,Home,940964.73,3,1,Corporate Buyers
+C0806,Individual,37,Home,1485168.27,4,1,Corporate Buyers
+C0807,Individual,33,Investment,1635419.92,4,0,Individual Home Buyers
+C0808,Individual,83,Home,885158.15,3,1,Corporate Buyers
+C0809,Individual,59,Home,1386118.19,3,1,Corporate Buyers
+C0810,Individual,31,Home,922597.58,3,0,Individual Home Buyers
+C0811,Individual,81,Home,1515201.05,3,1,Corporate Buyers
+C0812,Individual,52,Home,1443224.01,4,1,Corporate Buyers
+C0813,Individual,52,Investment,1314024.52,4,1,Corporate Buyers
+C0814,Individual,62,Home,674363.74,3,0,Individual Home Buyers
+C0815,Company,61,Home,962374.65,3,0,Individual Home Buyers
+C0816,Individual,79,Home,1003090.85,3,1,Corporate Buyers
+C0817,Individual,54,Investment,1338281,3,0,Individual Home Buyers
+C0818,Company,35,Home,760443.35,4,0,Individual Home Buyers
+C0819,Individual,75,Home,1239378.27,3,0,Individual Home Buyers
+C0820,Individual,86,Investment,920197.78,3,0,Individual Home Buyers
+C0821,Individual,69,Home,1371213.26,3,0,Individual Home Buyers
+C0822,Individual,67,Investment,1407630.29,3,0,Individual Home Buyers
+C0823,Individual,51,Investment,1722388.89,4,0,Individual Home Buyers
+C0824,Individual,50,Home,1234378.85,3,0,Individual Home Buyers
+C0825,Individual,44,Home,1246198,4,3,Luxury Investors
+C0826,Individual,56,Investment,1255265.82,4,0,Individual Home Buyers
+C0827,Individual,61,Home,1176467.77,4,0,Individual Home Buyers
+C0828,Individual,79,Investment,1313574.2,4,0,Individual Home Buyers
+C0829,Individual,66,Investment,1296844.19,4,0,Individual Home Buyers
+C0830,Individual,74,Investment,1518798.69,4,0,Individual Home Buyers
+C0831,Individual,49,Home,909532.47,3,0,Individual Home Buyers
+C0832,Individual,36,Investment,1290741.99,3,0,Individual Home Buyers
+C0833,Individual,75,Home,1422486.61,3,0,Individual Home Buyers
+C0834,Individual,69,Home,1384660.54,4,0,Individual Home Buyers
+C0835,Individual,52,Home,1159317.69,4,0,Individual Home Buyers
+C0836,Individual,84,Home,1280715.29,3,0,Individual Home Buyers
+C0837,Individual,59,Home,1415445.71,4,1,Corporate Buyers
+C0838,Individual,34,Investment,837604.3,3,0,Individual Home Buyers
+C0839,Individual,32,Home,1123967.69,3,1,Corporate Buyers
+C0840,Individual,45,Home,1508352.25,4,1,Corporate Buyers
+C0841,Individual,27,Home,1344816.1,4,2,Small Corporate Segment
+C0842,Individual,30,Home,1082477.82,4,0,Individual Home Buyers
+C0843,Individual,26,Home,1377127.37,3,0,Individual Home Buyers
+C0844,Individual,79,Home,1363201.96,4,0,Individual Home Buyers
+C0845,Individual,33,Home,1355270.16,3,0,Individual Home Buyers
+C0846,Individual,50,Investment,1069033.77,3,1,Corporate Buyers
+C0847,Individual,38,Home,1258765.46,4,0,Individual Home Buyers
+C0848,Individual,59,Home,1366788.33,4,0,Individual Home Buyers
+C0849,Individual,49,Home,1262931.66,4,0,Individual Home Buyers
+C0850,Individual,43,Investment,528432.48,3,0,Individual Home Buyers
+C0851,Individual,33,Investment,1482957.88,4,0,Individual Home Buyers
+C0852,Individual,37,Home,1368458.37,4,1,Corporate Buyers
+C0853,Individual,76,Home,1293562.22,4,0,Individual Home Buyers
+C0854,Individual,82,Home,1419031.61,3,0,Individual Home Buyers
+C0855,Individual,53,Home,1198702.15,4,1,Corporate Buyers
+C0856,Individual,62,Home,1565508.99,4,0,Individual Home Buyers
+C0857,Individual,75,Investment,1431064.56,4,0,Individual Home Buyers
+C0858,Individual,32,Home,972150.6,3,0,Individual Home Buyers
+C0859,Individual,84,Home,1440623.89,4,0,Individual Home Buyers
+C0860,Individual,58,Home,1362579.84,4,0,Individual Home Buyers
+C0861,Individual,32,Investment,1527460.57,3,1,Corporate Buyers
+C0862,Individual,45,Investment,1354421.91,3,0,Individual Home Buyers
+C0863,Individual,51,Home,1107744.96,4,2,Small Corporate Segment
+C0864,Individual,56,Home,1085548.02,3,0,Individual Home Buyers
+C0865,Individual,51,Investment,1268059.13,4,0,Individual Home Buyers
+C0866,Individual,39,Home,1331713.08,4,1,Corporate Buyers
+C0867,Individual,59,Home,1028747.3,3,0,Individual Home Buyers
+C0868,Individual,81,Home,987211.17,3,0,Individual Home Buyers
+C0869,Individual,33,Home,858807.13,3,0,Individual Home Buyers
+C0870,Company,60,Home,1097902.26,4,1,Corporate Buyers
+C0871,Individual,37,Home,1939848.53,4,0,Individual Home Buyers
+C0872,Individual,83,Home,1462320.39,4,1,Corporate Buyers
+C0873,Individual,86,Home,1325777.78,3,0,Individual Home Buyers
+C0874,Individual,73,Investment,1490289.11,4,1,Corporate Buyers
+C0875,Individual,54,Home,1308981.48,3,1,Corporate Buyers
+C0876,Individual,53,Home,873771.52,3,0,Individual Home Buyers
+C0877,Individual,28,Investment,1407650.4,3,0,Individual Home Buyers
+C0878,Individual,81,Home,970670.15,3,0,Individual Home Buyers
+C0879,Individual,81,Home,1349121.32,3,1,Corporate Buyers
+C0880,Individual,85,Home,1390002.64,4,0,Individual Home Buyers
+C0881,Individual,72,Investment,1247321.2,4,0,Individual Home Buyers
+C0882,Individual,26,Home,1142828.14,3,1,Corporate Buyers
+C0883,Individual,80,Home,1979258.27,4,0,Individual Home Buyers
+C0884,Individual,77,Home,1021697.5,3,0,Individual Home Buyers
+C0885,Individual,85,Investment,1540844.02,3,1,Corporate Buyers
+C0886,Individual,65,Home,807556.47,3,0,Individual Home Buyers
+C0887,Individual,33,Home,1247287.09,4,0,Individual Home Buyers
+C0888,Individual,39,Home,1104713.19,4,1,Corporate Buyers
+C0889,Individual,41,Investment,1339350.59,3,0,Individual Home Buyers
+C0890,Individual,71,Investment,1138394.29,4,0,Individual Home Buyers
+C0891,Individual,56,Investment,1340373.08,4,1,Corporate Buyers
+C0892,Individual,68,Investment,984121.4,3,0,Individual Home Buyers
+C0893,Individual,31,Home,1695839.47,4,0,Individual Home Buyers
+C0894,Individual,73,Home,882067.47,3,0,Individual Home Buyers
+C0895,Individual,73,Investment,1127680.6,3,0,Individual Home Buyers
+C0896,Individual,56,Home,1157933.44,4,1,Corporate Buyers
+C0897,Individual,55,Home,745691.65,3,1,Corporate Buyers
+C0898,Individual,73,Investment,836494.02,4,0,Individual Home Buyers
+C0899,Company,38,Investment,1050407.63,3,0,Individual Home Buyers
+C0900,Individual,27,Home,606058.22,3,1,Corporate Buyers
+C0901,Individual,27,Investment,909138.84,3,1,Corporate Buyers
+C0902,Company,62,Home,1281064.76,4,1,Corporate Buyers
+C0903,Individual,34,Investment,1108147.61,3,0,Individual Home Buyers
+C0904,Individual,42,Home,1050355.29,4,1,Corporate Buyers
+C0905,Individual,33,Home,877477.72,3,0,Individual Home Buyers
+C0906,Individual,57,Investment,1757967.56,4,0,Individual Home Buyers
+C0907,Individual,53,Home,1375380.46,3,0,Individual Home Buyers
+C0908,Individual,66,Home,1129941.35,4,0,Individual Home Buyers
+C0909,Individual,59,Investment,1529455.73,4,0,Individual Home Buyers
+C0910,Individual,55,Home,1293598.48,3,0,Individual Home Buyers
+C0911,Individual,37,Home,1310405.32,4,0,Individual Home Buyers
+C0912,Individual,77,Home,1322130.05,3,0,Individual Home Buyers
+C0913,Individual,27,Home,1935637.92,4,0,Individual Home Buyers
+C0914,Individual,78,Investment,1124290.78,4,1,Corporate Buyers
+C0915,Individual,78,Home,1309768.71,3,0,Individual Home Buyers
+C0916,Individual,38,Home,1377591.46,4,1,Corporate Buyers
+C0917,Individual,57,Home,756785.49,3,0,Individual Home Buyers
+C0918,Individual,26,Home,1461361.87,3,1,Corporate Buyers
+C0919,Individual,51,Investment,1059524.55,3,1,Corporate Buyers
+C0920,Individual,53,Home,878368.79,3,0,Individual Home Buyers
+C0921,Individual,27,Home,802736.76,3,1,Corporate Buyers
+C0922,Individual,84,Investment,1105753.98,3,1,Corporate Buyers
+C0923,Individual,76,Home,1183422.85,4,0,Individual Home Buyers
+C0924,Individual,38,Home,1558670.83,4,0,Individual Home Buyers
+C0925,Individual,82,Home,1308035.02,3,1,Corporate Buyers
+C0926,Individual,65,Home,1078841.73,3,0,Individual Home Buyers
+C0927,Individual,64,Home,933499.38,3,1,Corporate Buyers
+C0928,Individual,76,Home,758070.13,3,0,Individual Home Buyers
+C0929,Individual,72,Home,1167841.72,3,0,Individual Home Buyers
+C0930,Individual,33,Investment,924305.53,3,0,Individual Home Buyers
+C0931,Individual,49,Investment,997418.61,3,0,Individual Home Buyers
+C0932,Individual,77,Home,1468310.66,4,0,Individual Home Buyers
+C0933,Individual,71,Home,1077170.94,3,0,Individual Home Buyers
+C0934,Individual,83,Investment,912489.59,3,1,Corporate Buyers
+C0935,Individual,26,Home,1133032.49,3,1,Corporate Buyers
+C0936,Individual,75,Home,782945.97,3,0,Individual Home Buyers
+C0937,Individual,44,Home,1370340.91,4,0,Individual Home Buyers
+C0938,Individual,63,Home,854217.7,3,1,Corporate Buyers
+C0939,Individual,48,Investment,1190833.68,4,1,Corporate Buyers
+C0940,Individual,41,Investment,1628937.85,4,0,Individual Home Buyers
+C0941,Individual,71,Home,1028314.09,3,0,Individual Home Buyers
+C0942,Individual,35,Home,1402631.76,4,0,Individual Home Buyers
+C0943,Individual,69,Investment,975048.28,3,1,Corporate Buyers
+C0944,Individual,70,Home,1256722.03,3,0,Individual Home Buyers
+C0945,Individual,81,Home,973406.55,3,1,Corporate Buyers
+C0946,Individual,80,Investment,827605.63,3,0,Individual Home Buyers
+C0947,Individual,45,Home,1096583.29,3,0,Individual Home Buyers
+C0948,Individual,37,Investment,1532000.51,4,0,Individual Home Buyers
+C0949,Individual,83,Investment,1397057.95,4,0,Individual Home Buyers
+C0950,Individual,35,Investment,1418212.48,4,0,Individual Home Buyers
+C0951,Individual,28,Home,1658301.92,4,3,Luxury Investors
+C0952,Individual,67,Home,1886501.93,4,0,Individual Home Buyers
+C0953,Company,31,Home,639815,3,0,Individual Home Buyers
+C0954,Individual,76,Investment,1493788,4,1,Corporate Buyers
+C0955,Individual,57,Home,1098111.78,3,0,Individual Home Buyers
+C0956,Individual,60,Home,1647197.45,4,0,Individual Home Buyers
+C0957,Company,65,Home,1295242.02,4,0,Individual Home Buyers
+C0958,Individual,35,Home,936091.45,4,0,Individual Home Buyers
+C0959,Individual,74,Home,1840159.66,4,0,Individual Home Buyers
+C0960,Individual,66,Investment,1380084.58,4,0,Individual Home Buyers
+C0961,Individual,52,Home,1681311.67,4,1,Corporate Buyers
+C0962,Individual,86,Home,1335726.82,4,0,Individual Home Buyers
+C0963,Individual,85,Home,598874.99,3,1,Corporate Buyers
+C0964,Individual,73,Home,1015121.69,3,0,Individual Home Buyers
+C0965,Individual,65,Investment,840199.61,3,0,Individual Home Buyers
+C0966,Company,31,Investment,1606785.05,4,0,Individual Home Buyers
+C0967,Individual,67,Home,705599.66,3,0,Individual Home Buyers
+C0968,Individual,31,Home,1089074.71,3,0,Individual Home Buyers
+C0969,Individual,50,Investment,1118760.19,3,1,Corporate Buyers
+C0970,Individual,40,Home,1596404.25,4,1,Corporate Buyers
+C0971,Individual,57,Investment,1278450.05,4,0,Individual Home Buyers
+C0972,Individual,62,Home,1298009.03,4,0,Individual Home Buyers
+C0973,Individual,34,Investment,1595817.16,4,0,Individual Home Buyers
+C0974,Individual,65,Home,1210990.11,4,0,Individual Home Buyers
+C0975,Individual,80,Home,941310.61,3,0,Individual Home Buyers
+C0976,Individual,43,Home,1206149.98,4,0,Individual Home Buyers
+C0977,Individual,30,Home,944672.95,3,0,Individual Home Buyers
+C0978,Individual,63,Home,1449360.91,3,0,Individual Home Buyers
+C0979,Individual,86,Investment,864661.45,3,1,Corporate Buyers
+C0980,Individual,84,Investment,1156326.64,3,0,Individual Home Buyers
+C0981,Individual,65,Investment,2048324.19,4,0,Individual Home Buyers
+C0982,Individual,65,Investment,1443503.73,3,1,Corporate Buyers
+C0983,Individual,32,Home,803219.7,3,1,Corporate Buyers
+C0984,Individual,64,Home,1206529.21,3,1,Corporate Buyers
+C0985,Individual,72,Home,886990.72,3,0,Individual Home Buyers
+C0986,Individual,45,Home,1445226.07,3,1,Corporate Buyers
+C0987,Individual,59,Home,1086018.36,4,1,Corporate Buyers
+C0988,Individual,38,Home,695033.8,3,0,Individual Home Buyers
+C0989,Individual,80,Home,1129907.31,4,0,Individual Home Buyers
+C0990,Individual,84,Home,1588383.36,4,0,Individual Home Buyers
+C0991,Individual,51,Home,1223116.15,3,0,Individual Home Buyers
+C0992,Individual,38,Home,1478482.61,4,0,Individual Home Buyers
+C0993,Individual,72,Home,530494.44,3,0,Individual Home Buyers
+C0994,Individual,50,Home,1379902.87,4,0,Individual Home Buyers
+C0995,Individual,77,Home,1004120.77,3,1,Corporate Buyers
+C0996,Individual,70,Home,888968,3,1,Corporate Buyers
+C0997,Individual,76,Investment,1607877.07,3,0,Individual Home Buyers
+C0998,Company,57,Home,1230552.15,4,0,Individual Home Buyers
+C0999,Individual,57,Investment,661984.35,3,0,Individual Home Buyers
+C1000,Individual,63,Home,1629372.23,4,0,Individual Home Buyers
+C1001,Individual,45,Home,1650296.94,4,0,Individual Home Buyers
+C1002,Individual,59,Home,1064050.72,3,0,Individual Home Buyers
+C1003,Individual,49,Home,1164909.23,3,0,Individual Home Buyers
+C1004,Individual,44,Home,1553467.66,4,0,Individual Home Buyers
+C1005,Individual,38,Home,778101.6,3,1,Corporate Buyers
+C1006,Individual,34,Home,738938.8,3,0,Individual Home Buyers
+C1007,Individual,78,Home,813104.68,3,1,Corporate Buyers
+C1008,Company,39,Home,1018262.69,4,0,Individual Home Buyers
+C1009,Individual,76,Investment,741160.04,3,0,Individual Home Buyers
+C1010,Individual,62,Home,1331479.73,4,0,Individual Home Buyers
+C1011,Individual,74,Investment,1281389.39,4,0,Individual Home Buyers
+C1012,Individual,66,Home,1690270.5,3,0,Individual Home Buyers
+C1013,Individual,32,Home,1627907.97,4,0,Individual Home Buyers
+C1014,Individual,57,Home,1278106.36,3,0,Individual Home Buyers
+C1015,Individual,49,Home,884426.51,3,0,Individual Home Buyers
+C1016,Individual,50,Home,1542774.61,4,0,Individual Home Buyers
+C1017,Individual,58,Home,1116371.43,4,0,Individual Home Buyers
+C1018,Individual,59,Home,845680.57,3,0,Individual Home Buyers
+C1019,Individual,51,Home,1167255.18,3,0,Individual Home Buyers
+C1020,Individual,32,Home,1248826.86,4,0,Individual Home Buyers
+C1021,Individual,52,Investment,1554739.9,4,0,Individual Home Buyers
+C1022,Individual,42,Home,1389709.13,4,0,Individual Home Buyers
+C1023,Individual,73,Home,1336237.87,3,0,Individual Home Buyers
+C1024,Individual,57,Investment,1351032.92,3,0,Individual Home Buyers
+C1025,Individual,79,Home,738424.18,3,0,Individual Home Buyers
+C1026,Individual,35,Investment,1440775.1,3,0,Individual Home Buyers
+C1027,Individual,50,Investment,1554407.81,3,0,Individual Home Buyers
+C1028,Individual,84,Home,1143826.71,4,0,Individual Home Buyers
+C1029,Individual,77,Home,946560.97,3,1,Corporate Buyers
+C1030,Individual,66,Home,1353543.06,4,0,Individual Home Buyers
+C1031,Individual,37,Home,1011333.2,3,1,Corporate Buyers
+C1032,Individual,49,Home,1494289.73,4,0,Individual Home Buyers
+C1033,Individual,64,Home,1496120.51,4,1,Corporate Buyers
+C1034,Individual,47,Home,1200049.6,4,0,Individual Home Buyers
+C1035,Individual,65,Home,1528550.13,4,0,Individual Home Buyers
+C1036,Individual,38,Home,1176436.08,3,0,Individual Home Buyers
+C1037,Company,56,Home,1115637.13,3,0,Individual Home Buyers
+C1038,Individual,67,Investment,907128.2,3,0,Individual Home Buyers
+C1039,Individual,64,Home,1428452.94,4,0,Individual Home Buyers
+C1040,Individual,86,Investment,901095.79,3,0,Individual Home Buyers
+C1041,Individual,36,Home,1150040.79,3,0,Individual Home Buyers
+C1042,Individual,81,Home,1325783.46,4,0,Individual Home Buyers
+C1043,Individual,27,Home,1067911.86,3,0,Individual Home Buyers
+C1044,Individual,55,Investment,1368036.39,4,0,Individual Home Buyers
+C1045,Individual,84,Home,974840.03,3,0,Individual Home Buyers
+C1046,Individual,57,Home,1301128.39,4,1,Corporate Buyers
+C1047,Individual,42,Home,1333737.83,3,0,Individual Home Buyers
+C1048,Individual,56,Investment,1349339.41,3,0,Individual Home Buyers
+C1049,Individual,86,Investment,1214294.16,3,0,Individual Home Buyers
+C1050,Individual,71,Home,1274655.09,4,0,Individual Home Buyers
+C1051,Individual,68,Home,894972.26,3,0,Individual Home Buyers
+C1052,Individual,73,Home,1008000.54,4,0,Individual Home Buyers
+C1053,Individual,52,Home,1280976.9,3,3,Luxury Investors
+C1054,Individual,37,Home,837920.58,3,0,Individual Home Buyers
+C1055,Individual,54,Investment,811498.78,3,0,Individual Home Buyers
+C1056,Individual,47,Home,1436352.77,3,0,Individual Home Buyers
+C1057,Individual,32,Investment,1430593.53,4,0,Individual Home Buyers
+C1058,Individual,53,Home,1526007.82,4,1,Corporate Buyers
+C1059,Individual,48,Home,1266979.76,3,0,Individual Home Buyers
+C1060,Individual,86,Home,1167625.18,3,0,Individual Home Buyers
+C1061,Individual,66,Home,1689767.29,4,1,Corporate Buyers
+C1062,Individual,51,Home,1766882.53,4,0,Individual Home Buyers
+C1063,Individual,38,Investment,1315820.94,3,0,Individual Home Buyers
+C1064,Individual,81,Home,695434.77,3,0,Individual Home Buyers
+C1065,Individual,71,Home,1107631.34,3,0,Individual Home Buyers
+C1066,Individual,85,Home,1208868.77,4,1,Corporate Buyers
+C1067,Individual,84,Investment,849001.36,3,0,Individual Home Buyers
+C1068,Individual,42,Home,1403831.31,3,0,Individual Home Buyers
+C1069,Individual,34,Home,1323760.84,3,0,Individual Home Buyers
+C1070,Individual,75,Home,1286265.14,3,1,Corporate Buyers
+C1071,Individual,60,Home,1047375.62,4,0,Individual Home Buyers
+C1072,Individual,64,Home,829884.93,3,0,Individual Home Buyers
+C1073,Individual,71,Investment,1197808.83,4,0,Individual Home Buyers
+C1074,Individual,72,Home,1004700.45,3,1,Corporate Buyers
+C1075,Individual,51,Home,1178400.08,4,0,Individual Home Buyers
+C1076,Individual,46,Investment,884169.44,3,0,Individual Home Buyers
+C1077,Individual,44,Investment,1467449.24,4,0,Individual Home Buyers
+C1078,Individual,86,Home,1247337.58,3,0,Individual Home Buyers
+C1079,Individual,67,Investment,1151228.31,3,0,Individual Home Buyers
+C1080,Individual,70,Investment,1594795.52,4,1,Corporate Buyers
+C1081,Company,52,Home,1006584.7,3,1,Corporate Buyers
+C1082,Individual,33,Investment,829499.85,3,0,Individual Home Buyers
+C1083,Individual,76,Investment,1145122.1,4,0,Individual Home Buyers
+C1084,Individual,37,Home,1357921.15,4,1,Corporate Buyers
+C1085,Individual,79,Investment,797675.03,3,1,Corporate Buyers
+C1086,Individual,70,Home,1339827.27,4,0,Individual Home Buyers
+C1087,Individual,42,Home,1878433.21,4,0,Individual Home Buyers
+C1088,Individual,28,Home,802271.19,3,0,Individual Home Buyers
+C1089,Individual,64,Home,959344.08,4,0,Individual Home Buyers
+C1090,Individual,64,Home,1217272.58,3,1,Corporate Buyers
+C1091,Individual,42,Home,741797.49,3,0,Individual Home Buyers
+C1092,Individual,30,Investment,1213248.05,3,0,Individual Home Buyers
+C1093,Individual,46,Home,805402.83,3,0,Individual Home Buyers
+C1094,Individual,66,Home,1631407.56,4,0,Individual Home Buyers
+C1095,Individual,86,Home,1454366.24,4,0,Individual Home Buyers
+C1096,Individual,61,Home,1756661.91,4,0,Individual Home Buyers
+C1097,Individual,64,Home,1064342.81,3,1,Corporate Buyers
+C1098,Individual,50,Investment,1187774.23,3,0,Individual Home Buyers
+C1099,Individual,54,Home,1426501.12,4,0,Individual Home Buyers
+C1100,Individual,86,Home,1314225.59,4,1,Corporate Buyers
+C1101,Individual,62,Home,1037914.43,4,1,Corporate Buyers
+C1102,Company,66,Home,1248456.03,4,1,Corporate Buyers
+C1103,Individual,65,Home,1206840.81,4,2,Small Corporate Segment
+C1104,Individual,28,Investment,893996.19,3,0,Individual Home Buyers
+C1105,Individual,86,Home,1623510.31,4,0,Individual Home Buyers
+C1106,Individual,44,Home,773499.85,3,0,Individual Home Buyers
+C1107,Individual,78,Home,1156527.59,3,1,Corporate Buyers
+C1108,Individual,32,Home,1069904.1,3,1,Corporate Buyers
+C1109,Individual,59,Home,1756965.37,4,0,Individual Home Buyers
+C1110,Individual,49,Home,1445458.33,4,0,Individual Home Buyers
+C1111,Company,59,Home,885146.14,3,0,Individual Home Buyers
+C1112,Individual,44,Investment,961599.42,3,0,Individual Home Buyers
+C1113,Individual,52,Investment,1162770.88,4,0,Individual Home Buyers
+C1114,Individual,34,Home,872825.73,3,0,Individual Home Buyers
+C1115,Individual,53,Home,1054599.19,3,0,Individual Home Buyers
+C1116,Individual,35,Home,766951.95,3,0,Individual Home Buyers
+C1117,Individual,71,Home,1149629.49,4,0,Individual Home Buyers
+C1118,Company,57,Investment,859368.99,3,1,Corporate Buyers
+C1119,Individual,85,Home,938703.66,3,0,Individual Home Buyers
+C1120,Individual,47,Home,1371211.29,4,0,Individual Home Buyers
+C1121,Individual,41,Home,1014661.78,3,0,Individual Home Buyers
+C1122,Individual,84,Home,1558949.2,4,0,Individual Home Buyers
+C1123,Individual,75,Home,1241771.44,3,0,Individual Home Buyers
+C1124,Individual,50,Investment,1272190.01,4,0,Individual Home Buyers
+C1125,Individual,85,Home,1186907.08,3,0,Individual Home Buyers
+C1126,Company,43,Home,893488.2,3,0,Individual Home Buyers
+C1127,Individual,83,Investment,838728.4,3,1,Corporate Buyers
+C1128,Individual,43,Investment,1186634.53,3,0,Individual Home Buyers
+C1129,Individual,81,Investment,1463125.26,4,0,Individual Home Buyers
+C1130,Individual,39,Home,1326217.01,4,0,Individual Home Buyers
+C1131,Individual,42,Investment,1210500.79,3,0,Individual Home Buyers
+C1132,Individual,44,Home,1383901.27,3,0,Individual Home Buyers
+C1133,Individual,33,Investment,1427019.92,4,0,Individual Home Buyers
+C1134,Individual,83,Investment,1088583.78,4,0,Individual Home Buyers
+C1135,Individual,27,Investment,1186082.75,3,1,Corporate Buyers
+C1136,Individual,61,Home,1016844.64,3,0,Individual Home Buyers
+C1137,Individual,40,Home,1114902.43,3,0,Individual Home Buyers
+C1138,Individual,62,Home,840602.92,3,0,Individual Home Buyers
+C1139,Individual,30,Home,1297382.59,3,0,Individual Home Buyers
+C1140,Individual,50,Home,1275809.71,3,0,Individual Home Buyers
+C1141,Individual,26,Investment,990242.33,3,0,Individual Home Buyers
+C1142,Individual,78,Home,1492680.13,4,0,Individual Home Buyers
+C1143,Individual,32,Home,1108329.67,3,0,Individual Home Buyers
+C1144,Individual,48,Investment,1244666.12,4,0,Individual Home Buyers
+C1145,Individual,33,Home,1118850.31,3,0,Individual Home Buyers
+C1146,Individual,35,Investment,1037824.43,3,0,Individual Home Buyers
+C1147,Individual,48,Home,905314.84,3,0,Individual Home Buyers
+C1148,Individual,35,Home,1083677.57,3,1,Corporate Buyers
+C1149,Individual,46,Home,1277449.99,4,1,Corporate Buyers
+C1150,Individual,34,Investment,1476970.3,3,0,Individual Home Buyers
+C1151,Individual,63,Investment,1760000.34,4,0,Individual Home Buyers
+C1152,Individual,49,Home,1654928.32,4,0,Individual Home Buyers
+C1153,Individual,35,Home,1007630,3,0,Individual Home Buyers
+C1154,Individual,70,Home,1373889.96,4,0,Individual Home Buyers
+C1155,Individual,49,Home,1577625,3,0,Individual Home Buyers
+C1156,Individual,70,Home,859956.66,3,0,Individual Home Buyers
+C1157,Individual,82,Investment,894080.38,4,1,Corporate Buyers
+C1158,Individual,71,Investment,941360.29,3,0,Individual Home Buyers
+C1159,Individual,86,Investment,1170550.92,3,0,Individual Home Buyers
+C1160,Individual,46,Home,1359425.86,4,0,Individual Home Buyers
+C1161,Individual,32,Investment,2022416.31,4,1,Corporate Buyers
+C1162,Individual,64,Investment,1116223.63,4,0,Individual Home Buyers
+C1163,Individual,28,Home,1202709.18,4,0,Individual Home Buyers
+C1164,Individual,58,Home,1315287.03,4,2,Small Corporate Segment
+C1165,Individual,32,Home,970705.4,3,1,Corporate Buyers
+C1166,Individual,35,Investment,1163601.79,4,0,Individual Home Buyers
+C1167,Individual,59,Home,1163104.83,3,1,Corporate Buyers
+C1168,Individual,28,Home,1081069.19,4,1,Corporate Buyers
+C1169,Individual,32,Home,900300.22,4,1,Corporate Buyers
+C1170,Individual,36,Home,1165955.62,4,0,Individual Home Buyers
+C1171,Individual,42,Investment,1561809.25,4,0,Individual Home Buyers
+C1172,Individual,84,Home,1240274.79,4,0,Individual Home Buyers
+C1173,Individual,42,Investment,1261072.17,4,1,Corporate Buyers
+C1174,Individual,44,Home,1414798.99,4,0,Individual Home Buyers
+C1175,Individual,67,Home,1766232.62,4,0,Individual Home Buyers
+C1176,Individual,51,Investment,1003328.89,3,0,Individual Home Buyers
+C1177,Individual,28,Investment,1047224.27,4,0,Individual Home Buyers
+C1178,Individual,76,Home,744651.07,3,0,Individual Home Buyers
+C1179,Individual,35,Home,848152.02,3,0,Individual Home Buyers
+C1180,Individual,31,Home,1111089.24,4,1,Corporate Buyers
+C1181,Individual,70,Investment,743723.31,3,0,Individual Home Buyers
+C1182,Individual,65,Investment,1522183.38,4,1,Corporate Buyers
+C1183,Individual,33,Investment,1364593.88,4,0,Individual Home Buyers
+C1184,Individual,73,Home,500255.63,3,1,Corporate Buyers
+C1185,Individual,26,Home,1218570.99,4,0,Individual Home Buyers
+C1186,Individual,48,Home,1141153.96,3,0,Individual Home Buyers
+C1187,Individual,64,Home,1097539.23,3,0,Individual Home Buyers
+C1188,Individual,31,Home,1437535.25,4,1,Corporate Buyers
+C1189,Individual,63,Home,1180295.09,4,0,Individual Home Buyers
+C1190,Individual,80,Home,1358669.02,4,0,Individual Home Buyers
+C1191,Individual,76,Investment,1095538.81,3,0,Individual Home Buyers
+C1192,Individual,26,Home,1111237.94,4,0,Individual Home Buyers
+C1193,Individual,51,Home,946796.24,4,1,Corporate Buyers
+C1194,Individual,83,Home,1084957.53,3,0,Individual Home Buyers
+C1195,Individual,36,Home,1118238.91,4,0,Individual Home Buyers
+C1196,Individual,71,Home,1731153.76,4,0,Individual Home Buyers
+C1197,Individual,67,Home,1439595.57,3,0,Individual Home Buyers
+C1198,Individual,66,Home,1415391.59,3,0,Individual Home Buyers
+C1199,Individual,83,Home,1013002.89,4,0,Individual Home Buyers
+C1200,Individual,57,Home,1789601.33,4,0,Individual Home Buyers
+C1201,Individual,26,Investment,1063833.91,4,0,Individual Home Buyers
+C1202,Company,41,Investment,1527115.16,4,1,Corporate Buyers
+C1203,Individual,64,Home,1083378.55,3,0,Individual Home Buyers
+C1204,Individual,34,Investment,1231356.24,3,0,Individual Home Buyers
+C1205,Individual,67,Home,968123.38,3,1,Corporate Buyers
+C1206,Individual,69,Investment,941726.19,3,0,Individual Home Buyers
+C1207,Individual,53,Home,1084392.98,4,0,Individual Home Buyers
+C1208,Individual,49,Home,1277019.82,3,0,Individual Home Buyers
+C1209,Individual,48,Home,1201633.01,4,0,Individual Home Buyers
+C1210,Individual,35,Investment,1146800.83,4,0,Individual Home Buyers
+C1211,Individual,30,Home,1447927.02,4,1,Corporate Buyers
+C1212,Individual,69,Home,1052290.76,4,0,Individual Home Buyers
+C1213,Individual,33,Home,829461.56,3,1,Corporate Buyers
+C1214,Individual,26,Home,1725018.41,4,0,Individual Home Buyers
+C1215,Individual,32,Home,1140423.38,3,0,Individual Home Buyers
+C1216,Individual,29,Home,1191384.37,3,1,Corporate Buyers
+C1217,Individual,29,Investment,1007204.78,3,0,Individual Home Buyers
+C1218,Individual,85,Home,1308613.57,4,0,Individual Home Buyers
+C1219,Individual,43,Home,867409.27,3,0,Individual Home Buyers
+C1220,Individual,59,Investment,1471199.75,4,0,Individual Home Buyers
+C1221,Individual,42,Investment,1354868.93,3,0,Individual Home Buyers
+C1222,Individual,57,Home,1319349.86,3,0,Individual Home Buyers
+C1223,Individual,74,Home,1072582.78,3,0,Individual Home Buyers
+C1224,Individual,84,Investment,827238.27,3,0,Individual Home Buyers
+C1225,Individual,36,Home,1122587.7,3,0,Individual Home Buyers
+C1226,Individual,37,Home,972596.13,3,0,Individual Home Buyers
+C1227,Individual,39,Home,2151534.73,4,0,Individual Home Buyers
+C1228,Individual,72,Home,1058718.77,3,0,Individual Home Buyers
+C1229,Individual,32,Home,1185126.78,3,1,Corporate Buyers
+C1230,Individual,41,Home,759973.15,3,0,Individual Home Buyers
+C1231,Individual,72,Home,859705.17,3,0,Individual Home Buyers
+C1232,Individual,37,Home,1527373.03,4,1,Corporate Buyers
+C1233,Individual,47,Home,936287.8,3,0,Individual Home Buyers
+C1234,Individual,69,Investment,1463190.28,4,0,Individual Home Buyers
+C1235,Individual,69,Home,1271344.11,4,0,Individual Home Buyers
+C1236,Individual,54,Home,1747766.02,4,0,Individual Home Buyers
+C1237,Individual,83,Investment,688233.74,3,1,Corporate Buyers
+C1238,Individual,80,Home,1648873.57,4,0,Individual Home Buyers
+C1239,Individual,73,Home,1457041.08,4,0,Individual Home Buyers
+C1240,Individual,42,Investment,1018594.44,3,0,Individual Home Buyers
+C1241,Individual,53,Home,1157084.59,4,0,Individual Home Buyers
+C1242,Individual,65,Home,1055842.78,3,0,Individual Home Buyers
+C1243,Individual,78,Home,1419502.04,4,0,Individual Home Buyers
+C1244,Individual,34,Investment,1438309.93,3,0,Individual Home Buyers
+C1245,Individual,63,Home,1422519.51,3,0,Individual Home Buyers
+C1246,Individual,83,Home,859984.47,3,1,Corporate Buyers
+C1247,Individual,69,Investment,1774416.32,4,0,Individual Home Buyers
+C1248,Individual,50,Home,786895.89,3,0,Individual Home Buyers
+C1249,Individual,55,Investment,1289938.64,4,0,Individual Home Buyers
+C1250,Individual,76,Home,1582661.61,3,0,Individual Home Buyers
+C1251,Individual,51,Investment,1246714.37,4,0,Individual Home Buyers
+C1252,Individual,64,Home,1137673.55,3,0,Individual Home Buyers
+C1253,Individual,35,Home,767162.22,3,0,Individual Home Buyers
+C1254,Individual,70,Home,1604050.88,4,0,Individual Home Buyers
+C1255,Individual,27,Home,1105130.19,4,0,Individual Home Buyers
+C1256,Company,54,Investment,1227293.02,3,0,Individual Home Buyers
+C1257,Individual,35,Home,850550.13,3,0,Individual Home Buyers
+C1258,Individual,57,Home,1015636.19,4,0,Individual Home Buyers
+C1259,Individual,55,Investment,1256766.51,4,0,Individual Home Buyers
+C1260,Individual,34,Home,1633449.34,4,0,Individual Home Buyers
+C1261,Individual,50,Home,1491163.72,3,0,Individual Home Buyers
+C1262,Individual,76,Investment,961425.37,3,0,Individual Home Buyers
+C1263,Individual,75,Investment,1975384.2,4,0,Individual Home Buyers
+C1264,Individual,27,Investment,1287173.46,3,0,Individual Home Buyers
+C1265,Individual,83,Home,1070432.96,3,0,Individual Home Buyers
+C1266,Individual,74,Home,1204291.73,4,1,Corporate Buyers
+C1267,Individual,61,Home,1399933.88,3,0,Individual Home Buyers
+C1268,Individual,31,Investment,968928.25,3,1,Corporate Buyers
+C1269,Individual,62,Home,1046535,3,0,Individual Home Buyers
+C1270,Individual,48,Home,1310435.53,3,0,Individual Home Buyers
+C1271,Individual,34,Home,1296911.85,4,0,Individual Home Buyers
+C1272,Individual,85,Home,778830.8,3,1,Corporate Buyers
+C1273,Individual,58,Home,1462080.32,3,1,Corporate Buyers
+C1274,Individual,47,Investment,1038831.85,3,0,Individual Home Buyers
+C1275,Individual,57,Investment,1737593,4,0,Individual Home Buyers
+C1276,Individual,86,Home,1635917.97,3,1,Corporate Buyers
+C1277,Individual,45,Investment,1270250.68,3,0,Individual Home Buyers
+C1278,Individual,29,Home,685587.81,3,0,Individual Home Buyers
+C1279,Individual,83,Home,1278123.59,3,0,Individual Home Buyers
+C1280,Individual,73,Home,1295836.68,3,0,Individual Home Buyers
+C1281,Individual,28,Investment,889312.14,3,1,Corporate Buyers
+C1282,Individual,30,Investment,1302998.6,4,0,Individual Home Buyers
+C1283,Individual,81,Home,1479050.94,4,0,Individual Home Buyers
+C1284,Individual,71,Home,1443865.51,4,0,Individual Home Buyers
+C1285,Individual,72,Home,1609592.58,3,0,Individual Home Buyers
+C1286,Individual,63,Home,1203306.91,3,0,Individual Home Buyers
+C1287,Individual,28,Investment,843581.37,3,0,Individual Home Buyers
+C1288,Individual,85,Home,971136.69,3,2,Small Corporate Segment
+C1289,Individual,53,Investment,1076161.86,4,0,Individual Home Buyers
+C1290,Individual,53,Home,1332432.91,4,0,Individual Home Buyers
+C1291,Individual,43,Investment,1123403.46,3,0,Individual Home Buyers
+C1292,Individual,49,Investment,1099365.94,4,0,Individual Home Buyers
+C1293,Individual,54,Home,1853570.08,4,0,Individual Home Buyers
+C1294,Individual,63,Investment,1220533.28,3,1,Corporate Buyers
+C1295,Individual,34,Investment,1478836.57,4,0,Individual Home Buyers
+C1296,Individual,63,Home,1025127.71,3,0,Individual Home Buyers
+C1297,Company,43,Home,1169866.19,3,1,Corporate Buyers
+C1298,Individual,58,Home,1571360.11,4,0,Individual Home Buyers
+C1299,Individual,82,Investment,1296600.42,3,0,Individual Home Buyers
+C1300,Individual,65,Home,1428770.88,3,0,Individual Home Buyers
+C1301,Individual,71,Home,742139.88,3,0,Individual Home Buyers
+C1302,Individual,30,Investment,1709532.6,4,0,Individual Home Buyers
+C1303,Individual,64,Home,979418.98,3,0,Individual Home Buyers
+C1304,Individual,41,Investment,965747.81,3,0,Individual Home Buyers
+C1305,Individual,48,Home,1034190.9,4,0,Individual Home Buyers
+C1306,Individual,78,Home,967094.76,3,0,Individual Home Buyers
+C1307,Individual,33,Home,920439.02,3,0,Individual Home Buyers
+C1308,Individual,26,Investment,1363559.13,4,0,Individual Home Buyers
+C1309,Individual,27,Home,1460171.41,3,0,Individual Home Buyers
+C1310,Individual,71,Home,1244334.14,4,0,Individual Home Buyers
+C1311,Individual,86,Home,1352275.64,3,1,Corporate Buyers
+C1312,Individual,84,Home,786877.06,3,0,Individual Home Buyers
+C1313,Individual,54,Investment,997579.61,3,1,Corporate Buyers
+C1314,Individual,62,Home,803329.23,3,0,Individual Home Buyers
+C1315,Individual,78,Home,1066308.48,3,0,Individual Home Buyers
+C1316,Individual,33,Home,1238162.97,4,0,Individual Home Buyers
+C1317,Company,53,Home,1315200.12,3,0,Individual Home Buyers
+C1318,Individual,83,Home,1423923.98,4,0,Individual Home Buyers
+C1319,Individual,72,Home,1424704.13,4,0,Individual Home Buyers
+C1320,Individual,57,Investment,1077693.04,3,0,Individual Home Buyers
+C1321,Individual,36,Investment,787847.37,3,0,Individual Home Buyers
+C1322,Individual,32,Home,1094026.34,3,0,Individual Home Buyers
+C1323,Individual,63,Home,1180654.6,4,0,Individual Home Buyers
+C1324,Individual,34,Investment,1323306.51,3,0,Individual Home Buyers
+C1325,Individual,52,Home,1380292.56,4,1,Corporate Buyers
+C1326,Individual,82,Investment,1489578.01,4,0,Individual Home Buyers
+C1327,Individual,33,Home,664017.81,3,0,Individual Home Buyers
+C1328,Individual,70,Home,1337283.29,4,0,Individual Home Buyers
+C1329,Individual,58,Investment,1041797.56,3,0,Individual Home Buyers
+C1330,Individual,51,Investment,835096.87,4,0,Individual Home Buyers
+C1331,Individual,40,Investment,1047958.11,3,0,Individual Home Buyers
+C1332,Individual,31,Investment,1227353.63,3,0,Individual Home Buyers
+C1333,Individual,38,Investment,1364310.45,4,0,Individual Home Buyers
+C1334,Individual,61,Home,1906641.78,4,0,Individual Home Buyers
+C1335,Individual,44,Investment,1001510.58,3,0,Individual Home Buyers
+C1336,Individual,78,Home,1371591.4,4,0,Individual Home Buyers
+C1337,Individual,73,Investment,1310989.71,4,0,Individual Home Buyers
+C1338,Individual,58,Home,1096818.64,3,0,Individual Home Buyers
+C1339,Company,65,Home,1532340.63,4,0,Individual Home Buyers
+C1340,Company,38,Home,1746049.93,4,0,Individual Home Buyers
+C1341,Individual,74,Home,756694.83,3,0,Individual Home Buyers
+C1342,Individual,62,Home,922722.19,3,0,Individual Home Buyers
+C1343,Individual,31,Home,1005148.64,3,1,Corporate Buyers
+C1344,Individual,52,Home,1319490.92,4,0,Individual Home Buyers
+C1345,Individual,70,Home,942467.41,3,0,Individual Home Buyers
+C1346,Company,39,Investment,1037623.39,3,0,Individual Home Buyers
+C1347,Individual,70,Home,1001705.48,3,0,Individual Home Buyers
+C1348,Individual,28,Home,1021309.93,3,0,Individual Home Buyers
+C1349,Individual,44,Investment,773186.34,3,0,Individual Home Buyers
+C1350,Individual,35,Home,743296.88,4,1,Corporate Buyers
+C1351,Individual,39,Home,1400457.41,4,1,Corporate Buyers
+C1352,Individual,37,Home,1535963.18,3,0,Individual Home Buyers
+C1353,Individual,29,Home,532598.24,3,1,Corporate Buyers
+C1354,Individual,85,Home,1545799.94,3,0,Individual Home Buyers
+C1355,Individual,60,Investment,1245446.78,3,0,Individual Home Buyers
+C1356,Individual,32,Investment,1490237.62,3,0,Individual Home Buyers
+C1357,Individual,39,Home,1077383.54,3,0,Individual Home Buyers
+C1358,Individual,83,Home,965180.83,3,0,Individual Home Buyers
+C1359,Individual,51,Home,1381335.3,4,0,Individual Home Buyers
+C1360,Individual,36,Home,1001006.54,3,0,Individual Home Buyers
+C1361,Individual,83,Home,1529260.3,4,0,Individual Home Buyers
+C1362,Individual,61,Investment,993131.84,4,0,Individual Home Buyers
+C1363,Individual,45,Home,1109919.36,4,0,Individual Home Buyers
+C1364,Individual,28,Investment,1201578.93,4,0,Individual Home Buyers
+C1365,Individual,57,Investment,1443894.02,4,1,Corporate Buyers
+C1366,Individual,31,Home,1488525.13,3,0,Individual Home Buyers
+C1367,Individual,73,Home,1035889.5,3,1,Corporate Buyers
+C1368,Individual,79,Home,1378979.49,4,0,Individual Home Buyers
+C1369,Individual,43,Home,1615394.12,4,1,Corporate Buyers
+C1370,Individual,61,Investment,834659.23,4,0,Individual Home Buyers
+C1371,Individual,37,Home,1036681.19,4,1,Corporate Buyers
+C1372,Individual,45,Investment,874872.8,3,0,Individual Home Buyers
+C1373,Individual,34,Home,1275663.27,3,0,Individual Home Buyers
+C1374,Company,36,Home,1230590.28,3,1,Corporate Buyers
+C1375,Individual,54,Investment,1097182.39,4,0,Individual Home Buyers
+C1376,Individual,39,Investment,1272387.3,3,0,Individual Home Buyers
+C1377,Individual,42,Investment,828441.41,3,0,Individual Home Buyers
+C1378,Individual,50,Investment,1399739.87,3,0,Individual Home Buyers
+C1379,Individual,56,Home,827767.69,3,1,Corporate Buyers
+C1380,Individual,77,Investment,1012542.18,3,1,Corporate Buyers
+C1381,Individual,64,Home,1082639.91,3,1,Corporate Buyers
+C1382,Individual,75,Home,1176910.13,4,0,Individual Home Buyers
+C1383,Individual,34,Home,864768.83,3,0,Individual Home Buyers
+C1384,Individual,38,Home,905480.04,3,0,Individual Home Buyers
+C1385,Individual,80,Home,1182983.03,3,0,Individual Home Buyers
+C1386,Individual,79,Home,1284366.78,3,0,Individual Home Buyers
+C1387,Individual,83,Investment,804550.47,3,1,Corporate Buyers
+C1388,Individual,27,Home,1183031.06,3,0,Individual Home Buyers
+C1389,Individual,74,Home,1742522.83,4,1,Corporate Buyers
+C1390,Individual,47,Home,906492.19,3,0,Individual Home Buyers
+C1391,Individual,52,Home,1579627.98,4,0,Individual Home Buyers
+C1392,Individual,36,Home,1434978.2,4,0,Individual Home Buyers
+C1393,Individual,45,Investment,1187799.99,4,0,Individual Home Buyers
+C1394,Individual,49,Home,1325404.6,4,0,Individual Home Buyers
+C1395,Individual,38,Investment,1497964.92,4,1,Corporate Buyers
+C1396,Individual,55,Investment,977070.12,3,1,Corporate Buyers
+C1397,Individual,43,Home,1551369.83,4,0,Individual Home Buyers
+C1398,Individual,60,Home,926545.71,3,0,Individual Home Buyers
+C1399,Individual,48,Home,1259614.96,4,1,Corporate Buyers
+C1400,Individual,35,Home,1146194.54,4,1,Corporate Buyers
+C1401,Individual,27,Investment,1223523.71,4,0,Individual Home Buyers
+C1402,Individual,58,Home,1394159.93,4,0,Individual Home Buyers
+C1403,Individual,43,Home,1463350.69,4,0,Individual Home Buyers
+C1404,Individual,76,Home,1193678.04,4,0,Individual Home Buyers
+C1405,Individual,71,Home,1306722.36,3,0,Individual Home Buyers
+C1406,Individual,56,Home,1364413.45,4,0,Individual Home Buyers
+C1407,Individual,70,Home,1429717.09,4,0,Individual Home Buyers
+C1408,Company,63,Home,1345035.74,4,0,Individual Home Buyers
+C1409,Individual,69,Investment,1072801.12,3,0,Individual Home Buyers
+C1410,Individual,61,Home,1439196.49,4,0,Individual Home Buyers
+C1411,Individual,39,Home,1318823.16,4,0,Individual Home Buyers
+C1412,Company,41,Home,1498125.2,4,0,Individual Home Buyers
+C1413,Individual,58,Home,1489065.16,4,0,Individual Home Buyers
+C1414,Individual,51,Home,1188718.7,4,0,Individual Home Buyers
+C1415,Individual,67,Investment,748797.26,3,0,Individual Home Buyers
+C1416,Individual,72,Home,1418066.39,3,0,Individual Home Buyers
+C1417,Individual,73,Home,1023021.48,3,1,Corporate Buyers
+C1418,Individual,72,Investment,1443234.89,3,0,Individual Home Buyers
+C1419,Individual,55,Investment,1143605.72,4,1,Corporate Buyers
+C1420,Company,45,Home,1196856.69,4,1,Corporate Buyers
+C1421,Individual,69,Home,938557.19,3,0,Individual Home Buyers
+C1422,Individual,71,Investment,2032565.11,4,0,Individual Home Buyers
+C1423,Individual,71,Home,1822778.36,4,1,Corporate Buyers
+C1424,Individual,72,Home,1382756.57,3,0,Individual Home Buyers
+C1425,Individual,55,Home,1449563.32,3,1,Corporate Buyers
+C1426,Individual,62,Home,1709098.18,4,0,Individual Home Buyers
+C1427,Individual,71,Home,1378636.21,4,1,Corporate Buyers
+C1428,Individual,73,Home,1136052.54,4,0,Individual Home Buyers
+C1429,Individual,35,Investment,1697550.01,4,0,Individual Home Buyers
+C1430,Individual,63,Home,928463.2,3,0,Individual Home Buyers
+C1431,Individual,83,Home,1620159.73,4,1,Corporate Buyers
+C1432,Individual,75,Home,863383.74,3,0,Individual Home Buyers
+C1433,Individual,73,Home,1358111.07,3,1,Corporate Buyers
+C1434,Company,41,Investment,1038640.05,4,0,Individual Home Buyers
+C1435,Individual,59,Investment,903765.87,3,0,Individual Home Buyers
+C1436,Individual,28,Home,969917.19,3,0,Individual Home Buyers
+C1437,Individual,29,Investment,1668948.58,4,0,Individual Home Buyers
+C1438,Individual,38,Home,1255115,3,0,Individual Home Buyers
+C1439,Individual,26,Home,1040682.81,3,0,Individual Home Buyers
+C1440,Individual,74,Investment,901013.42,3,0,Individual Home Buyers
+C1441,Individual,81,Investment,1201777.78,3,0,Individual Home Buyers
+C1442,Individual,26,Home,1007348.75,3,0,Individual Home Buyers
+C1443,Individual,47,Home,1045348.11,3,0,Individual Home Buyers
+C1444,Individual,45,Home,1089631.7,3,0,Individual Home Buyers
+C1445,Individual,38,Home,1249138.91,4,0,Individual Home Buyers
+C1446,Individual,75,Home,1550820.49,4,0,Individual Home Buyers
+C1447,Individual,54,Investment,1372408.9,4,0,Individual Home Buyers
+C1448,Individual,67,Home,1221304.62,4,1,Corporate Buyers
+C1449,Individual,27,Investment,1110557.49,3,0,Individual Home Buyers
+C1450,Individual,30,Home,1028509.6,3,0,Individual Home Buyers
+C1451,Individual,43,Home,1529673.32,4,0,Individual Home Buyers
+C1452,Individual,33,Home,1320005.77,3,2,Small Corporate Segment
+C1453,Individual,45,Home,1145044.9,3,0,Individual Home Buyers
+C1454,Individual,78,Investment,1188825.44,3,0,Individual Home Buyers
+C1455,Individual,37,Home,985992.43,3,0,Individual Home Buyers
+C1456,Company,34,Investment,1598853.55,4,0,Individual Home Buyers
+C1457,Individual,77,Home,1537205.06,4,0,Individual Home Buyers
+C1458,Individual,76,Home,917921.54,3,0,Individual Home Buyers
+C1459,Individual,77,Home,1556253.48,4,0,Individual Home Buyers
+C1460,Individual,54,Home,1569390.69,4,1,Corporate Buyers
+C1461,Individual,82,Home,1507966.87,4,0,Individual Home Buyers
+C1462,Individual,42,Investment,1220331.12,4,1,Corporate Buyers
+C1463,Individual,83,Home,1639044,4,0,Individual Home Buyers
+C1464,Individual,86,Home,1094818.68,3,0,Individual Home Buyers
+C1465,Individual,36,Home,1312191.47,3,0,Individual Home Buyers
+C1466,Individual,27,Investment,1387827.15,4,1,Corporate Buyers
+C1467,Individual,75,Home,761353.26,3,0,Individual Home Buyers
+C1468,Individual,86,Home,1072452.07,3,1,Corporate Buyers
+C1469,Individual,56,Home,1512121.64,3,0,Individual Home Buyers
+C1470,Individual,86,Investment,1440682.21,3,0,Individual Home Buyers
+C1471,Individual,86,Home,1048588.76,4,1,Corporate Buyers
+C1472,Individual,35,Home,1610320.87,4,0,Individual Home Buyers
+C1473,Individual,52,Home,1415300.74,4,0,Individual Home Buyers
+C1474,Individual,57,Home,1563434.47,4,0,Individual Home Buyers
+C1475,Individual,82,Home,1579186.25,4,0,Individual Home Buyers
+C1476,Individual,26,Home,1505369.42,4,0,Individual Home Buyers
+C1477,Company,58,Investment,1051466.92,4,0,Individual Home Buyers
+C1478,Individual,68,Investment,965772.74,3,1,Corporate Buyers
+C1479,Individual,58,Investment,1275455.51,4,0,Individual Home Buyers
+C1480,Individual,41,Investment,1466467.79,4,0,Individual Home Buyers
+C1481,Company,42,Investment,1059700.88,4,0,Individual Home Buyers
+C1482,Individual,73,Home,1665015.17,4,0,Individual Home Buyers
+C1483,Individual,51,Home,1831769.62,4,0,Individual Home Buyers
+C1484,Individual,55,Home,1117191.81,4,0,Individual Home Buyers
+C1485,Individual,42,Investment,1604885.52,4,0,Individual Home Buyers
+C1486,Individual,30,Home,1019385.69,3,1,Corporate Buyers
+C1487,Individual,61,Home,1553533.51,4,0,Individual Home Buyers
+C1488,Individual,51,Investment,1029238.79,3,0,Individual Home Buyers
+C1489,Individual,75,Home,1056549.47,3,0,Individual Home Buyers
+C1490,Individual,32,Investment,861119.76,3,1,Corporate Buyers
+C1491,Individual,29,Home,1056750.03,4,0,Individual Home Buyers
+C1492,Individual,42,Home,1309655.49,3,1,Corporate Buyers
+C1493,Individual,34,Home,864605.61,3,0,Individual Home Buyers
+C1494,Individual,30,Home,913338.07,3,0,Individual Home Buyers
+C1495,Individual,35,Home,2059292.68,4,0,Individual Home Buyers
+C1496,Individual,40,Home,1119013.61,3,0,Individual Home Buyers
+C1497,Individual,86,Investment,794765.34,3,0,Individual Home Buyers
+C1498,Individual,59,Investment,1142631.83,4,0,Individual Home Buyers
+C1499,Individual,29,Home,1321905.54,3,1,Corporate Buyers
+C1500,Individual,31,Home,1020299.92,4,1,Corporate Buyers
+C1501,Individual,75,Investment,761279.08,3,0,Individual Home Buyers
+C1502,Individual,32,Home,1045772.34,4,1,Corporate Buyers
+C1503,Company,40,Investment,1299971.48,4,0,Individual Home Buyers
+C1504,Individual,80,Home,871805.96,3,0,Individual Home Buyers
+C1505,Individual,32,Home,1012922.06,4,0,Individual Home Buyers
+C1506,Individual,76,Investment,1010109.4,3,0,Individual Home Buyers
+C1507,Individual,75,Home,1499666.44,4,0,Individual Home Buyers
+C1508,Individual,32,Home,965283.79,4,1,Corporate Buyers
+C1509,Individual,80,Home,1821912.87,4,0,Individual Home Buyers
+C1510,Company,64,Home,804243.22,3,0,Individual Home Buyers
+C1511,Individual,37,Home,1093080.86,3,1,Corporate Buyers
+C1512,Individual,71,Home,1209056.95,4,0,Individual Home Buyers
+C1513,Individual,31,Home,1452266.37,3,0,Individual Home Buyers
+C1514,Individual,40,Home,1211908.53,3,0,Individual Home Buyers
+C1515,Individual,80,Investment,1433703.52,4,0,Individual Home Buyers
+C1516,Individual,73,Home,690456.91,3,0,Individual Home Buyers
+C1517,Individual,48,Investment,1328693.42,4,0,Individual Home Buyers
+C1518,Individual,32,Home,961942.88,4,1,Corporate Buyers
+C1519,Individual,54,Home,1366990.13,4,0,Individual Home Buyers
+C1520,Individual,81,Home,1425469.02,4,0,Individual Home Buyers
+C1521,Individual,53,Home,913579.41,3,0,Individual Home Buyers
+C1522,Individual,62,Home,1598304.98,4,0,Individual Home Buyers
+C1523,Company,45,Investment,1652083.92,4,1,Corporate Buyers
+C1524,Individual,59,Home,1434208.3,4,0,Individual Home Buyers
+C1525,Individual,67,Home,1336757.18,3,0,Individual Home Buyers
+C1526,Individual,70,Home,1429330.15,3,0,Individual Home Buyers
+C1527,Individual,37,Home,993447.06,3,0,Individual Home Buyers
+C1528,Individual,29,Home,1058452.68,3,1,Corporate Buyers
+C1529,Company,37,Home,1614522.9,4,0,Individual Home Buyers
+C1530,Individual,38,Home,1011087.75,3,0,Individual Home Buyers
+C1531,Individual,62,Investment,1272471.05,4,1,Corporate Buyers
+C1532,Individual,28,Home,1446462.79,4,0,Individual Home Buyers
+C1533,Individual,38,Home,1019127.09,4,1,Corporate Buyers
+C1534,Individual,30,Home,1195359.88,3,0,Individual Home Buyers
+C1535,Individual,32,Investment,1967005.46,4,1,Corporate Buyers
+C1536,Individual,44,Home,1076884.84,3,0,Individual Home Buyers
+C1537,Individual,27,Home,1637300.41,3,0,Individual Home Buyers
+C1538,Individual,79,Investment,775544.78,3,0,Individual Home Buyers
+C1539,Individual,29,Home,811448.36,3,0,Individual Home Buyers
+C1540,Individual,69,Home,842510.7,3,0,Individual Home Buyers
+C1541,Individual,62,Home,1173616.46,4,0,Individual Home Buyers
+C1542,Individual,37,Home,1261648.92,3,0,Individual Home Buyers
+C1543,Individual,71,Investment,1199490.31,3,0,Individual Home Buyers
+C1544,Individual,79,Home,1551623.3,3,1,Corporate Buyers
+C1545,Individual,34,Investment,1101811.15,3,0,Individual Home Buyers
+C1546,Individual,60,Home,1161022.51,4,0,Individual Home Buyers
+C1547,Individual,51,Home,1199337.46,4,0,Individual Home Buyers
+C1548,Company,59,Home,615223.03,3,0,Individual Home Buyers
+C1549,Individual,65,Home,837044.35,3,3,Luxury Investors
+C1550,Individual,28,Home,1368767.79,4,0,Individual Home Buyers
+C1551,Individual,35,Home,1252240.69,3,0,Individual Home Buyers
+C1552,Individual,79,Investment,1356450.7,4,0,Individual Home Buyers
+C1553,Company,36,Home,979536.36,3,0,Individual Home Buyers
+C1554,Individual,28,Home,742034.24,3,1,Corporate Buyers
+C1555,Individual,80,Home,1233852.38,4,1,Corporate Buyers
+C1556,Individual,44,Investment,1215734.71,4,0,Individual Home Buyers
+C1557,Individual,84,Home,955054.18,3,0,Individual Home Buyers
+C1558,Individual,82,Home,1482069.56,3,0,Individual Home Buyers
+C1559,Individual,51,Home,1345808.87,3,1,Corporate Buyers
+C1560,Individual,86,Home,1052677.57,3,0,Individual Home Buyers
+C1561,Individual,62,Investment,1135294.51,3,3,Luxury Investors
+C1562,Individual,39,Home,1179775.32,3,0,Individual Home Buyers
+C1563,Individual,39,Home,979729.05,3,0,Individual Home Buyers
+C1564,Individual,62,Investment,1595925.43,3,0,Individual Home Buyers
+C1565,Individual,46,Home,1140899.22,4,0,Individual Home Buyers
+C1566,Individual,31,Home,1450240.65,4,0,Individual Home Buyers
+C1567,Individual,49,Home,1594452.62,4,0,Individual Home Buyers
+C1568,Individual,36,Home,1373808.09,3,0,Individual Home Buyers
+C1569,Individual,33,Investment,1175242.55,3,0,Individual Home Buyers
+C1570,Individual,63,Home,1469638.4,4,0,Individual Home Buyers
+C1571,Individual,48,Home,1243439.96,4,0,Individual Home Buyers
+C1572,Individual,66,Home,886149.52,4,1,Corporate Buyers
+C1573,Individual,80,Home,1175839.94,4,0,Individual Home Buyers
+C1574,Individual,42,Home,1195224.9,3,0,Individual Home Buyers
+C1575,Individual,26,Home,1395067.16,4,0,Individual Home Buyers
+C1576,Individual,49,Investment,1359536.24,4,0,Individual Home Buyers
+C1577,Individual,43,Home,1427933.58,3,1,Corporate Buyers
+C1578,Individual,30,Investment,765431.01,3,0,Individual Home Buyers
+C1579,Individual,81,Investment,1101753.59,4,0,Individual Home Buyers
+C1580,Individual,29,Investment,1008834.66,4,0,Individual Home Buyers
+C1581,Individual,76,Investment,1123364.22,3,0,Individual Home Buyers
+C1582,Individual,71,Home,1030269.01,3,1,Corporate Buyers
+C1583,Individual,58,Home,1378030.61,4,0,Individual Home Buyers
+C1584,Company,41,Investment,1199226.44,3,1,Corporate Buyers
+C1585,Individual,66,Home,1480011.91,4,1,Corporate Buyers
+C1586,Individual,59,Home,1116579.83,3,1,Corporate Buyers
+C1587,Individual,83,Investment,743057.13,3,1,Corporate Buyers
+C1588,Individual,46,Investment,957201.31,3,0,Individual Home Buyers
+C1589,Individual,73,Investment,1380536.7,3,0,Individual Home Buyers
+C1590,Company,47,Home,1470403.6,4,0,Individual Home Buyers
+C1591,Individual,55,Investment,1676312.98,4,0,Individual Home Buyers
+C1592,Individual,51,Investment,878452.19,4,0,Individual Home Buyers
+C1593,Individual,51,Home,825960.49,4,0,Individual Home Buyers
+C1594,Individual,57,Home,1522994.53,4,0,Individual Home Buyers
+C1595,Individual,71,Home,1310147.86,4,0,Individual Home Buyers
+C1596,Individual,47,Investment,1642954.44,3,1,Corporate Buyers
+C1597,Individual,77,Investment,1155778.2,4,0,Individual Home Buyers
+C1598,Individual,86,Home,1163931.67,3,0,Individual Home Buyers
+C1599,Individual,46,Investment,1321031.17,3,0,Individual Home Buyers
+C1600,Individual,58,Home,1237164.36,4,2,Small Corporate Segment
+C1601,Individual,30,Home,829078.01,3,1,Corporate Buyers
+C1602,Individual,40,Investment,1676863.99,4,0,Individual Home Buyers
+C1603,Individual,64,Home,1077719.71,4,1,Corporate Buyers
+C1604,Individual,77,Home,1050264.24,3,0,Individual Home Buyers
+C1605,Individual,27,Investment,1170783.34,4,1,Corporate Buyers
+C1606,Individual,61,Home,917562.71,3,0,Individual Home Buyers
+C1607,Individual,63,Home,829294.57,3,0,Individual Home Buyers
+C1608,Individual,27,Home,1431381.65,3,1,Corporate Buyers
+C1609,Individual,62,Investment,804844.43,3,0,Individual Home Buyers
+C1610,Individual,59,Investment,1249167.74,4,0,Individual Home Buyers
+C1611,Individual,51,Investment,1072189.52,4,0,Individual Home Buyers
+C1612,Individual,36,Home,766554.56,3,0,Individual Home Buyers
+C1613,Individual,28,Home,1608368.22,4,0,Individual Home Buyers
+C1614,Individual,58,Investment,822155.05,3,0,Individual Home Buyers
+C1615,Individual,63,Home,857125.52,3,0,Individual Home Buyers
+C1616,Individual,35,Investment,1344053.71,4,1,Corporate Buyers
+C1617,Individual,74,Home,776005.5,3,0,Individual Home Buyers
+C1618,Individual,64,Home,1356655.68,4,0,Individual Home Buyers
+C1619,Individual,74,Home,1390206.46,4,2,Small Corporate Segment
+C1620,Individual,82,Home,788250.35,3,0,Individual Home Buyers
+C1621,Individual,72,Investment,739739.97,3,0,Individual Home Buyers
+C1622,Individual,65,Home,1054193.36,3,0,Individual Home Buyers
+C1623,Individual,32,Home,1060233.46,3,0,Individual Home Buyers
+C1624,Individual,75,Home,1943363.94,4,0,Individual Home Buyers
+C1625,Individual,26,Home,910587.85,3,1,Corporate Buyers
+C1626,Individual,56,Home,1225657.22,3,1,Corporate Buyers
+C1627,Individual,53,Investment,1275226.77,3,0,Individual Home Buyers
+C1628,Company,33,Home,800299.08,3,1,Corporate Buyers
+C1629,Individual,70,Home,789150.05,3,0,Individual Home Buyers
+C1630,Company,32,Investment,1206881.92,3,0,Individual Home Buyers
+C1631,Individual,60,Home,1683720.2,4,1,Corporate Buyers
+C1632,Individual,63,Investment,1425130.68,4,0,Individual Home Buyers
+C1633,Individual,49,Home,847190.33,3,1,Corporate Buyers
+C1634,Individual,82,Investment,1044217.01,4,0,Individual Home Buyers
+C1635,Individual,78,Home,1104480.44,4,1,Corporate Buyers
+C1636,Company,39,Home,1171439.72,3,0,Individual Home Buyers
+C1637,Individual,57,Home,1333020.46,3,3,Luxury Investors
+C1638,Individual,48,Investment,1047895.71,3,1,Corporate Buyers
+C1639,Individual,83,Home,1088561.44,4,0,Individual Home Buyers
+C1640,Individual,60,Home,1172146.65,4,0,Individual Home Buyers
+C1641,Individual,54,Home,1898878.08,4,0,Individual Home Buyers
+C1642,Individual,45,Home,1441785.62,4,1,Corporate Buyers
+C1643,Individual,48,Home,1182889.92,3,1,Corporate Buyers
+C1644,Individual,82,Home,1312822.17,4,0,Individual Home Buyers
+C1645,Individual,31,Investment,1503973.21,4,1,Corporate Buyers
+C1646,Individual,28,Investment,972186.46,3,0,Individual Home Buyers
+C1647,Individual,81,Home,1316368.95,3,0,Individual Home Buyers
+C1648,Individual,77,Home,1282946.7,3,1,Corporate Buyers
+C1649,Individual,44,Home,1540887.81,4,0,Individual Home Buyers
+C1650,Individual,57,Investment,1065238.5,3,0,Individual Home Buyers
+C1651,Individual,81,Investment,962066.42,3,0,Individual Home Buyers
+C1652,Individual,62,Investment,1078933.8,3,0,Individual Home Buyers
+C1653,Individual,52,Investment,957106.48,4,0,Individual Home Buyers
+C1654,Individual,58,Home,1250065.38,4,0,Individual Home Buyers
+C1655,Individual,61,Investment,974749.8,3,0,Individual Home Buyers
+C1656,Individual,35,Investment,1401657.84,4,2,Small Corporate Segment
+C1657,Individual,68,Home,1316624.69,4,0,Individual Home Buyers
+C1658,Individual,56,Home,1243178.6,4,0,Individual Home Buyers
+C1659,Individual,80,Home,1576416.87,4,0,Individual Home Buyers
+C1660,Individual,86,Home,1330046.48,4,0,Individual Home Buyers
+C1661,Individual,51,Home,1511063.27,3,0,Individual Home Buyers
+C1662,Individual,59,Home,1505862.74,4,1,Corporate Buyers
+C1663,Individual,49,Investment,926064.21,3,0,Individual Home Buyers
+C1664,Individual,57,Investment,1390001.73,3,1,Corporate Buyers
+C1665,Individual,31,Home,966971.19,4,0,Individual Home Buyers
+C1666,Individual,64,Home,706503.59,3,0,Individual Home Buyers
+C1667,Individual,59,Investment,831811.52,3,0,Individual Home Buyers
+C1668,Individual,69,Home,1046863.21,4,1,Corporate Buyers
+C1669,Individual,66,Investment,948271.34,4,1,Corporate Buyers
+C1670,Individual,56,Home,1356021.03,4,0,Individual Home Buyers
+C1671,Individual,78,Home,1329236.75,4,0,Individual Home Buyers
+C1672,Individual,52,Investment,728363.17,3,0,Individual Home Buyers
+C1673,Individual,34,Home,1803634.76,4,0,Individual Home Buyers
+C1674,Individual,85,Home,1614623.53,4,0,Individual Home Buyers
+C1675,Individual,41,Investment,918037.68,3,1,Corporate Buyers
+C1676,Individual,27,Home,1251637,4,0,Individual Home Buyers
+C1677,Individual,62,Home,942915.18,3,0,Individual Home Buyers
+C1678,Individual,65,Home,1377654.29,3,0,Individual Home Buyers
+C1679,Individual,40,Investment,1194618.9,3,0,Individual Home Buyers
+C1680,Individual,27,Investment,665078.77,3,0,Individual Home Buyers
+C1681,Individual,65,Home,1408304.94,4,0,Individual Home Buyers
+C1682,Individual,39,Home,1469905.41,4,0,Individual Home Buyers
+C1683,Individual,27,Investment,1410114.6,4,0,Individual Home Buyers
+C1684,Individual,49,Investment,1109440.17,4,0,Individual Home Buyers
+C1685,Individual,49,Home,1109623.75,3,0,Individual Home Buyers
+C1686,Individual,49,Investment,1214377.82,4,0,Individual Home Buyers
+C1687,Individual,59,Home,1026117.62,4,0,Individual Home Buyers
+C1688,Individual,30,Home,1314384.27,3,0,Individual Home Buyers
+C1689,Individual,41,Investment,896100.8,3,0,Individual Home Buyers
+C1690,Individual,75,Home,1662639.06,3,1,Corporate Buyers
+C1691,Individual,80,Home,1212731.6,4,0,Individual Home Buyers
+C1692,Individual,35,Home,1165619.91,4,1,Corporate Buyers
+C1693,Individual,36,Home,1557035.08,4,1,Corporate Buyers
+C1694,Individual,69,Home,1457395.73,4,0,Individual Home Buyers
+C1695,Individual,71,Home,975866.19,3,1,Corporate Buyers
+C1696,Individual,39,Home,1316025.35,4,0,Individual Home Buyers
+C1697,Individual,46,Home,802813.26,4,1,Corporate Buyers
+C1698,Individual,76,Home,764529.97,3,1,Corporate Buyers
+C1699,Individual,57,Home,1161971.24,4,1,Corporate Buyers
+C1700,Individual,83,Home,1293648.37,4,0,Individual Home Buyers
+C1701,Individual,44,Home,916043.72,3,0,Individual Home Buyers
+C1702,Individual,36,Investment,1259181.49,3,0,Individual Home Buyers
+C1703,Individual,27,Investment,868665.77,3,0,Individual Home Buyers
+C1704,Individual,63,Home,1131490.64,3,0,Individual Home Buyers
+C1705,Individual,47,Investment,1031987.68,3,0,Individual Home Buyers
+C1706,Individual,50,Home,1417221.48,4,0,Individual Home Buyers
+C1707,Individual,53,Home,770609.62,3,0,Individual Home Buyers
+C1708,Individual,40,Home,854426.52,3,1,Corporate Buyers
+C1709,Individual,80,Investment,1336416.16,3,0,Individual Home Buyers
+C1710,Individual,69,Investment,1027918.12,3,1,Corporate Buyers
+C1711,Individual,45,Investment,1015613.11,4,0,Individual Home Buyers
+C1712,Individual,55,Home,1280242.15,4,1,Corporate Buyers
+C1713,Individual,45,Home,1401670.45,4,0,Individual Home Buyers
+C1714,Individual,78,Home,1054289.58,4,0,Individual Home Buyers
+C1715,Individual,63,Home,987214.18,4,0,Individual Home Buyers
+C1716,Individual,46,Home,1027286.48,3,0,Individual Home Buyers
+C1717,Individual,85,Home,915606.07,3,0,Individual Home Buyers
+C1718,Individual,31,Home,1362121.47,4,0,Individual Home Buyers
+C1719,Company,66,Home,1178759.88,3,0,Individual Home Buyers
+C1720,Individual,30,Home,1396671.77,4,0,Individual Home Buyers
+C1721,Individual,40,Home,1282729.71,4,0,Individual Home Buyers
+C1722,Individual,44,Home,1676365.72,4,0,Individual Home Buyers
+C1723,Individual,28,Home,1084602.42,4,1,Corporate Buyers
+C1724,Individual,70,Home,1646338.36,4,0,Individual Home Buyers
+C1725,Individual,67,Home,1352500.23,4,0,Individual Home Buyers
+C1726,Individual,78,Home,1141107.24,3,1,Corporate Buyers
+C1727,Individual,81,Home,1563834.42,4,0,Individual Home Buyers
+C1728,Individual,82,Home,1436312.58,4,0,Individual Home Buyers
+C1729,Individual,71,Home,956356.54,3,1,Corporate Buyers
+C1730,Individual,47,Investment,796432.48,3,0,Individual Home Buyers
+C1731,Individual,55,Home,1172220.11,4,0,Individual Home Buyers
+C1732,Individual,56,Investment,1551003.84,3,1,Corporate Buyers
+C1733,Individual,78,Home,1179975.09,4,0,Individual Home Buyers
+C1734,Individual,51,Home,1078504.94,3,0,Individual Home Buyers
+C1735,Individual,57,Investment,1139995.98,3,0,Individual Home Buyers
+C1736,Individual,37,Investment,1482243.88,4,0,Individual Home Buyers
+C1737,Individual,34,Investment,1060946.57,3,0,Individual Home Buyers
+C1738,Individual,49,Home,861195.69,3,0,Individual Home Buyers
+C1739,Individual,41,Investment,998344.48,4,1,Corporate Buyers
+C1740,Individual,75,Home,1439013.34,4,0,Individual Home Buyers
+C1741,Individual,50,Home,1310713.04,4,0,Individual Home Buyers
+C1742,Company,38,Home,1177856.21,3,0,Individual Home Buyers
+C1743,Individual,80,Home,839069.28,3,1,Corporate Buyers
+C1744,Individual,65,Investment,1320002.42,4,1,Corporate Buyers
+C1745,Individual,50,Home,1261495.5,3,0,Individual Home Buyers
+C1746,Individual,67,Home,793835.85,3,1,Corporate Buyers
+C1747,Individual,61,Home,1016661.44,3,0,Individual Home Buyers
+C1748,Individual,76,Home,1112272.46,3,0,Individual Home Buyers
+C1749,Individual,70,Home,832665.62,3,0,Individual Home Buyers
+C1750,Company,35,Home,1497163.73,4,0,Individual Home Buyers
+C1751,Individual,71,Home,873120.47,4,0,Individual Home Buyers
+C1752,Individual,46,Investment,1119600.47,3,0,Individual Home Buyers
+C1753,Individual,81,Investment,770077.48,3,0,Individual Home Buyers
+C1754,Individual,31,Home,1361555.24,3,0,Individual Home Buyers
+C1755,Individual,28,Home,672116.92,3,0,Individual Home Buyers
+C1756,Individual,36,Home,1481404.39,4,0,Individual Home Buyers
+C1757,Individual,41,Home,1125366.62,3,1,Corporate Buyers
+C1758,Individual,41,Investment,1006481.18,4,0,Individual Home Buyers
+C1759,Individual,52,Investment,1031917.22,4,0,Individual Home Buyers
+C1760,Individual,51,Home,1454358.32,4,1,Corporate Buyers
+C1761,Individual,71,Home,1181772.43,4,0,Individual Home Buyers
+C1762,Individual,62,Home,1023352.22,3,0,Individual Home Buyers
+C1763,Individual,72,Home,1789381.67,4,0,Individual Home Buyers
+C1764,Individual,80,Home,1668335.18,4,0,Individual Home Buyers
+C1765,Individual,29,Home,1734167.51,4,0,Individual Home Buyers
+C1766,Individual,33,Home,1371247.08,4,0,Individual Home Buyers
+C1767,Individual,48,Home,1455838.91,4,0,Individual Home Buyers
+C1768,Individual,83,Home,985105.21,4,1,Corporate Buyers
+C1769,Company,41,Home,985909,3,0,Individual Home Buyers
+C1770,Individual,81,Home,1334771.42,3,0,Individual Home Buyers
+C1771,Company,51,Home,1280895.97,3,0,Individual Home Buyers
+C1772,Company,51,Investment,1105281.92,4,1,Corporate Buyers
+C1773,Individual,46,Investment,1284141.19,4,0,Individual Home Buyers
+C1774,Individual,42,Home,1169335.49,4,0,Individual Home Buyers
+C1775,Individual,56,Home,1414776.99,4,0,Individual Home Buyers
+C1776,Individual,53,Home,1071718.4,3,1,Corporate Buyers
+C1777,Individual,52,Investment,784629.95,3,0,Individual Home Buyers
+C1778,Individual,32,Investment,1216664.82,3,0,Individual Home Buyers
+C1779,Individual,47,Home,1563236.55,4,0,Individual Home Buyers
+C1780,Individual,70,Investment,1735557.15,4,0,Individual Home Buyers
+C1781,Individual,58,Home,1383316.42,4,0,Individual Home Buyers
+C1782,Individual,27,Investment,897646.55,4,1,Corporate Buyers
+C1783,Individual,72,Home,1136482.92,4,0,Individual Home Buyers
+C1784,Individual,28,Home,1352274.53,4,1,Corporate Buyers
+C1785,Individual,70,Home,1006568.23,3,0,Individual Home Buyers
+C1786,Individual,31,Home,1247095.22,4,0,Individual Home Buyers
+C1787,Individual,71,Investment,1289585.42,4,0,Individual Home Buyers
+C1788,Individual,37,Home,1116876.81,3,0,Individual Home Buyers
+C1789,Individual,44,Home,1359605.1,3,0,Individual Home Buyers
+C1790,Individual,86,Investment,1335521.08,4,0,Individual Home Buyers
+C1791,Individual,60,Home,894512.8,3,0,Individual Home Buyers
+C1792,Individual,31,Home,1948563.24,4,0,Individual Home Buyers
+C1793,Individual,57,Investment,1317525.03,4,0,Individual Home Buyers
+C1794,Individual,31,Home,1378476.06,4,0,Individual Home Buyers
+C1795,Individual,81,Home,1058019.94,4,0,Individual Home Buyers
+C1796,Individual,76,Investment,1158919.94,3,0,Individual Home Buyers
+C1797,Individual,69,Home,910545.92,3,0,Individual Home Buyers
+C1798,Individual,60,Investment,1601121.79,4,0,Individual Home Buyers
+C1799,Individual,76,Home,1022792.49,4,0,Individual Home Buyers
+C1800,Individual,82,Home,1120963.1,3,0,Individual Home Buyers
+C1801,Individual,62,Home,1473065.73,3,0,Individual Home Buyers
+C1802,Individual,78,Investment,1155979.49,4,0,Individual Home Buyers
+C1803,Individual,39,Investment,1329728.19,3,1,Corporate Buyers
+C1804,Individual,37,Home,1735376.55,4,0,Individual Home Buyers
+C1805,Individual,73,Investment,1871670.17,4,1,Corporate Buyers
+C1806,Individual,59,Investment,974821.86,3,1,Corporate Buyers
+C1807,Individual,69,Home,1520931.78,3,1,Corporate Buyers
+C1808,Individual,36,Investment,1102931.45,4,0,Individual Home Buyers
+C1809,Individual,45,Home,1221253.05,4,0,Individual Home Buyers
+C1810,Individual,81,Home,991862.87,3,0,Individual Home Buyers
+C1811,Individual,68,Home,1189519.9,4,0,Individual Home Buyers
+C1812,Individual,49,Home,1080880,4,1,Corporate Buyers
+C1813,Individual,79,Investment,1552316.39,4,1,Corporate Buyers
+C1814,Individual,39,Home,1303261.99,4,1,Corporate Buyers
+C1815,Individual,77,Home,1182628.3,4,0,Individual Home Buyers
+C1816,Individual,64,Home,1078876.87,4,1,Corporate Buyers
+C1817,Individual,82,Home,1240667.65,3,0,Individual Home Buyers
+C1818,Individual,32,Investment,814797.06,3,0,Individual Home Buyers
+C1819,Individual,63,Home,1067644.33,3,1,Corporate Buyers
+C1820,Individual,47,Home,970434.94,4,1,Corporate Buyers
+C1821,Individual,82,Home,1733692.62,4,0,Individual Home Buyers
+C1822,Individual,30,Investment,1388147.75,4,0,Individual Home Buyers
+C1823,Individual,59,Home,993925.86,3,0,Individual Home Buyers
+C1824,Individual,64,Home,945036.97,4,0,Individual Home Buyers
+C1825,Individual,70,Home,948769.93,4,3,Luxury Investors
+C1826,Individual,75,Home,1300035.21,4,0,Individual Home Buyers
+C1827,Individual,53,Home,1221529.77,4,0,Individual Home Buyers
+C1828,Individual,35,Investment,1199213.25,4,0,Individual Home Buyers
+C1829,Individual,29,Home,1194095.83,3,0,Individual Home Buyers
+C1830,Individual,67,Home,1363309.64,3,0,Individual Home Buyers
+C1831,Individual,76,Home,1004720.27,4,1,Corporate Buyers
+C1832,Individual,39,Investment,1282390.94,4,0,Individual Home Buyers
+C1833,Individual,78,Investment,1132086.83,3,0,Individual Home Buyers
+C1834,Individual,63,Investment,1222274.6,4,1,Corporate Buyers
+C1835,Individual,67,Investment,739211.6,3,1,Corporate Buyers
+C1836,Individual,66,Investment,1213775.31,4,0,Individual Home Buyers
+C1837,Individual,76,Home,1507583.69,4,0,Individual Home Buyers
+C1838,Individual,61,Investment,1266344.58,4,1,Corporate Buyers
+C1839,Individual,83,Investment,967894.54,4,0,Individual Home Buyers
+C1840,Individual,40,Investment,911506.03,3,1,Corporate Buyers
+C1841,Individual,79,Home,1612088.13,4,0,Individual Home Buyers
+C1842,Company,48,Home,1252827.37,3,1,Corporate Buyers
+C1843,Individual,74,Home,1487849.65,4,1,Corporate Buyers
+C1844,Individual,48,Home,1033138.51,4,0,Individual Home Buyers
+C1845,Individual,77,Investment,889124.68,3,0,Individual Home Buyers
+C1846,Individual,41,Home,886017.55,3,1,Corporate Buyers
+C1847,Individual,74,Home,1080850.85,4,0,Individual Home Buyers
+C1848,Individual,33,Home,1595352.82,4,0,Individual Home Buyers
+C1849,Individual,50,Investment,1019239.08,3,1,Corporate Buyers
+C1850,Individual,55,Investment,1380990.75,4,0,Individual Home Buyers
+C1851,Individual,72,Home,1552543.97,4,1,Corporate Buyers
+C1852,Individual,29,Home,1674072.07,3,0,Individual Home Buyers
+C1853,Individual,77,Investment,1207329.15,4,0,Individual Home Buyers
+C1854,Company,66,Investment,1387997.02,4,1,Corporate Buyers
+C1855,Individual,42,Home,1117305.86,4,0,Individual Home Buyers
+C1856,Company,32,Home,1216231.43,3,0,Individual Home Buyers
+C1857,Individual,39,Investment,919814.94,3,0,Individual Home Buyers
+C1858,Individual,68,Home,1161958.29,3,0,Individual Home Buyers
+C1859,Individual,83,Home,1087561.59,4,0,Individual Home Buyers
+C1860,Company,56,Home,1661197.49,4,0,Individual Home Buyers
+C1861,Individual,44,Investment,1475178.95,4,0,Individual Home Buyers
+C1862,Individual,73,Home,988771.17,3,0,Individual Home Buyers
+C1863,Individual,78,Home,1281313.02,4,1,Corporate Buyers
+C1864,Individual,54,Home,1131730.6,4,0,Individual Home Buyers
+C1865,Individual,52,Investment,1092253.24,3,0,Individual Home Buyers
+C1866,Individual,55,Home,1620195.43,4,0,Individual Home Buyers
+C1867,Individual,74,Home,761781.8,3,0,Individual Home Buyers
+C1868,Individual,51,Home,1469394.43,4,1,Corporate Buyers
+C1869,Individual,51,Home,1335399.36,4,3,Luxury Investors
+C1870,Individual,46,Investment,680865.94,3,0,Individual Home Buyers
+C1871,Individual,65,Home,1096466.77,4,0,Individual Home Buyers
+C1872,Individual,86,Home,1284121.27,3,0,Individual Home Buyers
+C1873,Individual,67,Home,841611.53,4,1,Corporate Buyers
+C1874,Individual,54,Investment,1058361.99,3,0,Individual Home Buyers
+C1875,Individual,83,Home,1220153.86,3,0,Individual Home Buyers
+C1876,Company,45,Investment,1543986.34,3,0,Individual Home Buyers
+C1877,Individual,65,Home,905899.79,3,0,Individual Home Buyers
+C1878,Individual,59,Home,958603.36,3,0,Individual Home Buyers
+C1879,Individual,49,Home,1536294.68,3,0,Individual Home Buyers
+C1880,Individual,28,Home,1319939.53,4,0,Individual Home Buyers
+C1881,Individual,37,Home,972731.09,3,0,Individual Home Buyers
+C1882,Individual,66,Investment,884144.1,3,0,Individual Home Buyers
+C1883,Individual,85,Home,1877399.32,4,0,Individual Home Buyers
+C1884,Individual,72,Home,930994.21,3,0,Individual Home Buyers
+C1885,Individual,59,Home,1740983.97,4,1,Corporate Buyers
+C1886,Individual,27,Home,774293.93,3,0,Individual Home Buyers
+C1887,Individual,40,Investment,822999.76,3,0,Individual Home Buyers
+C1888,Individual,64,Home,981962.01,4,0,Individual Home Buyers
+C1889,Individual,39,Home,1193609.3,3,0,Individual Home Buyers
+C1890,Individual,72,Home,1209659.27,4,1,Corporate Buyers
+C1891,Individual,54,Home,1466482.8,4,0,Individual Home Buyers
+C1892,Individual,75,Investment,978638.94,3,0,Individual Home Buyers
+C1893,Individual,64,Home,1458732.84,4,0,Individual Home Buyers
+C1894,Individual,82,Investment,1284918.37,4,0,Individual Home Buyers
+C1895,Company,57,Investment,1170571.86,3,0,Individual Home Buyers
+C1896,Individual,71,Investment,1158311,3,0,Individual Home Buyers
+C1897,Individual,76,Home,1108918.34,4,1,Corporate Buyers
+C1898,Individual,47,Home,1159717.54,4,0,Individual Home Buyers
+C1899,Individual,30,Home,1001627.28,3,1,Corporate Buyers
+C1900,Individual,28,Investment,1185889.79,4,1,Corporate Buyers
+C1901,Individual,44,Home,1357680.7,4,1,Corporate Buyers
+C1902,Company,46,Investment,1127600.93,4,0,Individual Home Buyers
+C1903,Individual,35,Home,1453139.07,4,0,Individual Home Buyers
+C1904,Individual,77,Home,1337265.67,4,0,Individual Home Buyers
+C1905,Individual,65,Home,1180529.35,3,0,Individual Home Buyers
+C1906,Individual,71,Home,1487182.67,4,0,Individual Home Buyers
+C1907,Individual,76,Home,1751481.15,4,0,Individual Home Buyers
+C1908,Individual,50,Home,1543714.5,4,0,Individual Home Buyers
+C1909,Individual,41,Investment,1238663.76,3,0,Individual Home Buyers
+C1910,Company,41,Home,816793.91,4,0,Individual Home Buyers
+C1911,Individual,37,Home,1195691.95,3,0,Individual Home Buyers
+C1912,Individual,72,Investment,863871.21,3,0,Individual Home Buyers
+C1913,Individual,46,Home,1210353.53,4,1,Corporate Buyers
+C1914,Individual,33,Home,1553786.78,3,1,Corporate Buyers
+C1915,Individual,62,Investment,1015184.58,3,0,Individual Home Buyers
+C1916,Individual,78,Investment,1257058.52,3,0,Individual Home Buyers
+C1917,Individual,55,Home,1007433.23,4,1,Corporate Buyers
+C1918,Individual,86,Home,1019401.51,4,0,Individual Home Buyers
+C1919,Company,58,Investment,1083015.76,4,0,Individual Home Buyers
+C1920,Individual,57,Home,1523588.92,4,1,Corporate Buyers
+C1921,Individual,70,Home,980793.68,3,1,Corporate Buyers
+C1922,Individual,38,Home,1549836.17,3,0,Individual Home Buyers
+C1923,Individual,79,Investment,1302917.16,4,0,Individual Home Buyers
+C1924,Individual,68,Home,1453954.37,4,0,Individual Home Buyers
+C1925,Individual,84,Home,1165252.94,4,0,Individual Home Buyers
+C1926,Individual,29,Home,1238034.03,4,0,Individual Home Buyers
+C1927,Individual,74,Investment,1325474.94,4,0,Individual Home Buyers
+C1928,Individual,28,Home,741930.22,3,1,Corporate Buyers
+C1929,Individual,85,Home,1329874.96,4,0,Individual Home Buyers
+C1930,Individual,60,Investment,1184992.23,4,0,Individual Home Buyers
+C1931,Individual,31,Home,1323884.11,4,0,Individual Home Buyers
+C1932,Individual,64,Investment,1713149.19,4,0,Individual Home Buyers
+C1933,Company,32,Home,822428.05,3,1,Corporate Buyers
+C1934,Individual,48,Investment,1719384.46,4,1,Corporate Buyers
+C1935,Individual,43,Home,1205890.37,3,0,Individual Home Buyers
+C1936,Individual,42,Home,965899.1,3,1,Corporate Buyers
+C1937,Individual,65,Home,1707838.06,4,0,Individual Home Buyers
+C1938,Individual,53,Home,1154671.2,3,1,Corporate Buyers
+C1939,Individual,47,Investment,674304.95,3,0,Individual Home Buyers
+C1940,Individual,29,Home,1403901.14,4,1,Corporate Buyers
+C1941,Individual,83,Home,1368615.25,4,0,Individual Home Buyers
+C1942,Company,42,Home,1133984.52,3,0,Individual Home Buyers
+C1943,Individual,53,Home,967521.23,3,0,Individual Home Buyers
+C1944,Individual,40,Investment,1971083.93,4,0,Individual Home Buyers
+C1945,Individual,59,Investment,1112541.88,4,0,Individual Home Buyers
+C1946,Individual,71,Home,1056227.37,3,0,Individual Home Buyers
+C1947,Individual,47,Home,1247905.56,3,0,Individual Home Buyers
+C1948,Individual,71,Home,1530233,3,0,Individual Home Buyers
+C1949,Individual,71,Home,1020270.72,3,0,Individual Home Buyers
+C1950,Individual,51,Home,1033306.43,4,0,Individual Home Buyers
+C1951,Individual,30,Home,1128864.17,4,0,Individual Home Buyers
+C1952,Company,34,Home,1235262.65,3,0,Individual Home Buyers
+C1953,Individual,54,Home,1199064.43,4,1,Corporate Buyers
+C1954,Individual,60,Investment,809731.07,3,1,Corporate Buyers
+C1955,Individual,28,Home,1707150.06,4,1,Corporate Buyers
+C1956,Individual,59,Home,1224023.79,4,0,Individual Home Buyers
+C1957,Individual,64,Home,1318838.26,4,0,Individual Home Buyers
+C1958,Individual,56,Home,1567012.19,4,0,Individual Home Buyers
+C1959,Individual,84,Home,626084.02,3,0,Individual Home Buyers
+C1960,Individual,39,Home,1196488.96,3,0,Individual Home Buyers
+C1961,Individual,32,Home,1289265.38,4,0,Individual Home Buyers
+C1962,Individual,31,Home,971475.24,3,0,Individual Home Buyers
+C1963,Company,58,Home,983925.13,3,0,Individual Home Buyers
+C1964,Individual,54,Home,1149434.67,3,0,Individual Home Buyers
+C1965,Individual,29,Home,1489053.39,3,0,Individual Home Buyers
+C1966,Individual,62,Home,1210176.2,4,1,Corporate Buyers
+C1967,Individual,69,Investment,747143.37,3,0,Individual Home Buyers
+C1968,Individual,68,Investment,987718.99,3,0,Individual Home Buyers
+C1969,Individual,33,Investment,1030940.43,4,0,Individual Home Buyers
+C1970,Individual,48,Investment,1346312.7,3,0,Individual Home Buyers
+C1971,Individual,50,Home,673422.32,3,0,Individual Home Buyers
+C1972,Individual,54,Home,943260.84,3,0,Individual Home Buyers
+C1973,Company,33,Home,1450499.68,4,0,Individual Home Buyers
+C1974,Individual,76,Home,968686.85,4,0,Individual Home Buyers
+C1975,Individual,51,Home,985031.21,3,2,Small Corporate Segment
+C1976,Individual,31,Home,1146120.65,4,0,Individual Home Buyers
+C1977,Individual,32,Home,2001430.43,4,0,Individual Home Buyers
+C1978,Company,59,Investment,1205900.67,3,0,Individual Home Buyers
+C1979,Individual,84,Home,1287568.79,4,0,Individual Home Buyers
+C1980,Individual,70,Investment,1579565.09,4,0,Individual Home Buyers
+C1981,Individual,34,Home,1440160.68,4,1,Corporate Buyers
+C1982,Individual,79,Home,1545398.56,3,0,Individual Home Buyers
+C1983,Individual,65,Home,1317304.52,4,1,Corporate Buyers
+C1984,Individual,70,Home,846287.21,3,0,Individual Home Buyers
+C1985,Individual,63,Home,1149379.86,4,1,Corporate Buyers
+C1986,Individual,49,Investment,1442798.93,4,0,Individual Home Buyers
+C1987,Individual,40,Investment,1316082.96,4,2,Small Corporate Segment
+C1988,Individual,32,Home,1301018.95,4,0,Individual Home Buyers
+C1989,Individual,67,Home,1380788.86,4,0,Individual Home Buyers
+C1990,Individual,50,Investment,1253745.81,3,0,Individual Home Buyers
+C1991,Individual,76,Home,1134341.88,4,0,Individual Home Buyers
+C1992,Individual,83,Home,1266058.76,3,0,Individual Home Buyers
+C1993,Individual,41,Home,1385369.38,3,0,Individual Home Buyers
+C1994,Individual,32,Investment,1257875.21,3,0,Individual Home Buyers
+C1995,Individual,33,Investment,1044043.64,4,0,Individual Home Buyers
+C1996,Individual,34,Home,1151831.48,4,0,Individual Home Buyers
+C1997,Individual,84,Home,1101825.4,4,0,Individual Home Buyers
+C1998,Individual,63,Home,1023688.56,3,0,Individual Home Buyers
+C1999,Individual,82,Home,838587.38,3,0,Individual Home Buyers
+C2000,Individual,30,Home,913528.5,3,0,Individual Home Buyers
